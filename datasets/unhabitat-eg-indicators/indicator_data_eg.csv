@@ -1,0 +1,718 @@
+category,indicator,indicator_friendly,type_data,latitude,longitude,region_id,country_id,name,year,value
+#meta+category,#indicator+name,#indicator+description,#indicator+type,#geo+lat,#geo+lon,#region+code,#country+code+v_iso2,#country+name,#date+year,#indicator+value
+Slum dwellers,households_solid_waste_burn_slum,Proportion of households who burn solid waste – Slum ,p,27,30,189,EG,Egypt,2005,6.5
+Health,children_with_diarrhea_3_shelter_deprivation,Proportion of children with diarrhea in last two weeks – 3 Shelter deprivation,p,27,30,189,EG,Egypt,1992,12.6
+Health,children_with_diarrhea_3_shelter_deprivation,Proportion of children with diarrhea in last two weeks – 3 Shelter deprivation,p,27,30,189,EG,Egypt,2000,0.9
+Transport,total_number_of_motor_vehicles,Total number of motor vehicles (per 1000 population),n,27,30,189,EG,Egypt,1990,29
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,27,30,189,EG,Egypt,1985,48.39
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,27,30,189,EG,Egypt,1955,50.26
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,27,30,189,EG,Egypt,2020,44.27
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,27,30,189,EG,Egypt,1990,49.42
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,27,30,189,EG,Egypt,1960,50.82
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,27,30,189,EG,Egypt,2025,45.85
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,27,30,189,EG,Egypt,1995,50
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,27,30,189,EG,Egypt,1965,49.45
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,27,30,189,EG,Egypt,2000,48.4
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,27,30,189,EG,Egypt,1970,49.02
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,27,30,189,EG,Egypt,2005,46.74
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,27,30,189,EG,Egypt,1975,48.94
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,27,30,189,EG,Egypt,2010,46.83
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,27,30,189,EG,Egypt,1980,48.48
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,27,30,189,EG,Egypt,1950,49.35
+Slum dwellers,urban_population_percentage_fewer_500k,Percentage of urban population (by country) – Fewer than 500 000 inhabitants,p,27,30,189,EG,Egypt,2015,46.54
+Slum dwellers,improved_water_sustainable_access_countries,Proportion of population with sustainable access to an improved water source – Countries,p,27,30,189,EG,Egypt,2000,99.5
+Slum dwellers,improved_water_sustainable_access_countries,Proportion of population with sustainable access to an improved water source – Countries,p,27,30,189,EG,Egypt,1992,97.2
+Slum dwellers,improved_water_sustainable_access_countries,Proportion of population with sustainable access to an improved water source – Countries,p,27,30,189,EG,Egypt,2003,99.9
+Slum dwellers,improved_water_sustainable_access_countries,Proportion of population with sustainable access to an improved water source – Countries,p,27,30,189,EG,Egypt,2005,99.2
+Slum dwellers,improved_water_sustainable_access_countries,Proportion of population with sustainable access to an improved water source – Countries,p,27,30,189,EG,Egypt,1995,96.6
+Slum dwellers,pit_latrine_without_slab,Access to pit latrine without slab,p,27,30,189,EG,Egypt,1992,48.4
+Slum dwellers,pit_latrine_without_slab,Access to pit latrine without slab,p,27,30,189,EG,Egypt,2000,37.1
+Slum dwellers,pit_latrine_without_slab,Access to pit latrine without slab,p,27,30,189,EG,Egypt,1995,46.5
+Slum dwellers,pit_latrine_without_slab,Access to pit latrine without slab,p,27,30,189,EG,Egypt,2005,27.1
+Slum dwellers,pit_latrine_without_slab,Access to pit latrine without slab,p,27,30,189,EG,Egypt,2003,30.9
+Population,urban_population_countries,Urban population – Countries,1000,27,30,189,EG,Egypt,2050,75623
+Population,urban_population_countries,Urban population – Countries,1000,27,30,189,EG,Egypt,1950,6971
+Population,urban_population_countries,Urban population – Countries,1000,27,30,189,EG,Egypt,1955,8602
+Population,urban_population_countries,Urban population – Countries,1000,27,30,189,EG,Egypt,1960,10541
+Population,urban_population_countries,Urban population – Countries,1000,27,30,189,EG,Egypt,1965,12840
+Population,urban_population_countries,Urban population – Countries,1000,27,30,189,EG,Egypt,1970,14853
+Population,urban_population_countries,Urban population – Countries,1000,27,30,189,EG,Egypt,1975,17022
+Population,urban_population_countries,Urban population – Countries,1000,27,30,189,EG,Egypt,1980,19154
+Population,urban_population_countries,Urban population – Countries,1000,27,30,189,EG,Egypt,1985,21611
+Population,urban_population_countries,Urban population – Countries,1000,27,30,189,EG,Egypt,1990,23972
+Population,urban_population_countries,Urban population – Countries,1000,27,30,189,EG,Egypt,1995,25966
+Population,urban_population_countries,Urban population – Countries,1000,27,30,189,EG,Egypt,2000,28364
+Population,urban_population_countries,Urban population – Countries,1000,27,30,189,EG,Egypt,2005,31062
+Population,urban_population_countries,Urban population – Countries,1000,27,30,189,EG,Egypt,2007,32193
+Population,urban_population_countries,Urban population – Countries,1000,27,30,189,EG,Egypt,2010,34041
+Population,urban_population_countries,Urban population – Countries,1000,27,30,189,EG,Egypt,2015,37577
+Population,urban_population_countries,Urban population – Countries,1000,27,30,189,EG,Egypt,2020,41684
+Population,urban_population_countries,Urban population – Countries,1000,27,30,189,EG,Egypt,2025,46435
+Population,urban_population_countries,Urban population – Countries,1000,27,30,189,EG,Egypt,2030,51950
+Population,urban_population_countries,Urban population – Countries,1000,27,30,189,EG,Egypt,2035,58002
+Population,urban_population_countries,Urban population – Countries,1000,27,30,189,EG,Egypt,2040,64066
+Population,urban_population_countries,Urban population – Countries,1000,27,30,189,EG,Egypt,2045,69991
+Education,net_enrolment_rate_2_shelter_deprivation,Net enrolment rate in primary education in urban and rural areas (Male) – 2 Shelter deprivation,p,27,30,189,EG,Egypt,1992,90
+Education,net_enrolment_rate_2_shelter_deprivation,Net enrolment rate in primary education in urban and rural areas (Male) – 2 Shelter deprivation,p,27,30,189,EG,Egypt,2000,82.1
+Education,net_enrolment_rate_2_shelter_deprivation,Net enrolment rate in primary education in urban and rural areas (Male) – 2 Shelter deprivation,p,27,30,189,EG,Egypt,1995,87.9
+Education,net_enrolment_rate_2_shelter_deprivation,Net enrolment rate in primary education in urban and rural areas (Male) – 2 Shelter deprivation,p,27,30,189,EG,Egypt,2005,77.8
+Education,net_enrolment_rate_2_shelter_deprivation,Net enrolment rate in primary education in urban and rural areas (Male) – 2 Shelter deprivation,p,27,30,189,EG,Egypt,2003,77.6
+Slum dwellers,literacy_rate_women_3_shelter_deprivation,Literacy rate by shelter deprivation (Women) – 3 Shelter deprivation,p,27,30,189,EG,Egypt,2005,50
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,27,30,189,EG,Egypt,1985,2826
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,27,30,189,EG,Egypt,1955,4278
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,27,30,189,EG,Egypt,1990,3063
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,27,30,189,EG,Egypt,1960,5184
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,27,30,189,EG,Egypt,1995,3277
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,27,30,189,EG,Egypt,1965,6490
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,27,30,189,EG,Egypt,2000,3600
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,27,30,189,EG,Egypt,1970,1987
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,27,30,189,EG,Egypt,2005,3995
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,27,30,189,EG,Egypt,1975,2241
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,27,30,189,EG,Egypt,2010,4421
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,27,30,189,EG,Egypt,1980,2519
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,27,30,189,EG,Egypt,1950,3531
+Population,population_cities_by_country_1m_5m,Population in cities by country – cities with 1 to 5 million inhabitants,1000,27,30,189,EG,Egypt,2015,4817
+Population,urban_agglomeration_population_density,Urban agglomeration population density (population/km²),n,30.04996,31.249968,189,EG,Cairo,2013,9100
+Population,population_capital_cities,Population of capital cities,1000,30.04996,31.249968,189,EG,Cairo,2007,11893
+Slum dwellers,literacy_rate_women_non_slum,Literacy rate by shelter deprivation – Non slum,p,27,30,189,EG,Egypt,2000,71.1
+Slum dwellers,literacy_rate_women_non_slum,Literacy rate by shelter deprivation – Non slum,p,27,30,189,EG,Egypt,2003,75
+Slum dwellers,literacy_rate_women_non_slum,Literacy rate by shelter deprivation – Non slum,p,27,30,189,EG,Egypt,2005,81.4
+Slum dwellers,literacy_rate_women_non_slum,Literacy rate by shelter deprivation – Non slum,p,27,30,189,EG,Egypt,1995,69.7
+Slum dwellers,literacy_rate_women_2_shelter_deprivation,Literacy rate by shelter deprivation (Women) – 2 Shelter deprivation,p,27,30,189,EG,Egypt,2005,75.7
+Slum dwellers,households_solid_waste_other_disposal_non_slum,Proportion of households who use other source disposal of solid waste – Non slum,p,27,30,189,EG,Egypt,2005,8.7
+Slum dwellers,distribution_of_solid_cooking_fuel_urban,Percent distribution of solid cooking fuel – Urban,p,27,30,189,EG,Egypt,2005,0.2
+Slum dwellers,literacy_rate_slum,Literacy rate by shelter deprivation – Slum,p,27,30,189,EG,Egypt,2000,56
+Slum dwellers,literacy_rate_slum,Literacy rate by shelter deprivation – Slum,p,27,30,189,EG,Egypt,2003,60.2
+Slum dwellers,literacy_rate_slum,Literacy rate by shelter deprivation – Slum,p,27,30,189,EG,Egypt,2005,69.7
+Slum dwellers,literacy_rate_slum,Literacy rate by shelter deprivation – Slum,p,27,30,189,EG,Egypt,1995,31.6
+Transport,goods_hauled_by_railways,Goods hauled by railways (million passengers/km),n,27,30,189,EG,Egypt,1999,4188
+Resilience,number_of_refugees_by_country_of_asylum,Number of refugees by country of asylum,n,27,30,189,EG,Egypt,2005,88946
+Slum dwellers,households_solid_waste_burn_non_slum,Proportion of households who burn solid waste – Non slum,p,27,30,189,EG,Egypt,2005,1
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,27,30,189,EG,Egypt,1990,67.9
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,27,30,189,EG,Egypt,1995,54.17
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,27,30,189,EG,Egypt,2000,40.43
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,27,30,189,EG,Egypt,1970,157.9
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,27,30,189,EG,Egypt,2005,32.67
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,27,30,189,EG,Egypt,2007,29.91
+Population,death_per_1000_live_births,Deaths per 1000 live births,n,27,30,189,EG,Egypt,1980,119.62
+Education,net_enrolment_rate_1_shelter_deprivation,Net enrolment rate in primary education in urban and rural areas (Male) – 1 Shelter deprivation,p,27,30,189,EG,Egypt,1992,92.1
+Education,net_enrolment_rate_1_shelter_deprivation,Net enrolment rate in primary education in urban and rural areas (Male) – 1 Shelter deprivation,p,27,30,189,EG,Egypt,2000,82.9
+Education,net_enrolment_rate_1_shelter_deprivation,Net enrolment rate in primary education in urban and rural areas (Male) – 1 Shelter deprivation,p,27,30,189,EG,Egypt,1995,90.5
+Education,net_enrolment_rate_1_shelter_deprivation,Net enrolment rate in primary education in urban and rural areas (Male) – 1 Shelter deprivation,p,27,30,189,EG,Egypt,2005,88
+Education,net_enrolment_rate_1_shelter_deprivation,Net enrolment rate in primary education in urban and rural areas (Male) – 1 Shelter deprivation,p,27,30,189,EG,Egypt,2003,83.7
+Streets,proportion_land_allocated_to_street_city_core,Proportion of land allocated to street – city core,p,31.200019,29.949996,189,EG,Alexandria,2013,12.7
+Streets,proportion_land_allocated_to_street_city_core,Proportion of land allocated to street – city core,p,30.04996,31.249968,189,EG,Cairo,2013,15.7
+Health,hiv_prevalence_15_to_49_year,HIV prevalence among population 15-49 year,p,27,30,189,EG,Egypt,2001,0.01
+Health,hiv_prevalence_15_to_49_year,HIV prevalence among population 15-49 year,p,27,30,189,EG,Egypt,2003,0.01
+Streets,land_allocated_to_street_index_city_core,Land Allocated to Street Index – city core,index,31.200019,29.949996,189,EG,Alexandria,2013,0.404
+Streets,land_allocated_to_street_index_city_core,Land Allocated to Street Index – city core,index,30.04996,31.249968,189,EG,Cairo,2013,0.507
+City prosperity,cpi_composite_street_connectivity_index,Composite Street Connectivity Index,index,30.04996,31.249968,189,EG,Cairo,2013,0.636
+Streets,total_road_network,Total road network (in km),n,27,30,189,EG,Egypt,2000,92370
+Resilience,refugees_by_country_of_origin,Number of refugees by country of origin,n,27,30,189,EG,Egypt,2005,6291
+Transport,owner_motorcycle_rural_area,Ownership of motorcycle – rural area,p,27,30,189,EG,Egypt,2008,3.1
+Transport,owner_motorcycle_rural_area,Ownership of motorcycle – rural area,p,27,30,189,EG,Egypt,2000,1.9
+Transport,owner_motorcycle_rural_area,Ownership of motorcycle – rural area,p,27,30,189,EG,Egypt,2005,1.7
+Streets,intersection_density_index_city_core,Intersection Density Index – City Core,index,30.04996,31.249968,189,EG,Cairo,2013,1
+Streets,intersection_density_index_city_core,Intersection Density Index – City Core,index,31.200019,29.949996,189,EG,Alexandria,2013,1
+City prosperity,cpi_4_dimensions,City Prosperity Index with 4 dimensions,p,30.04996,31.249968,189,EG,Cairo,2012,0.73
+Population,number_of_cities_10_million_or_more,Number of cities by country – 10 million or more inhabitants,n,27,30,189,EG,Egypt,2020,1
+Population,number_of_cities_10_million_or_more,Number of cities by country – 10 million or more inhabitants,n,27,30,189,EG,Egypt,2025,1
+Population,number_of_cities_10_million_or_more,Number of cities by country – 10 million or more inhabitants,n,27,30,189,EG,Egypt,2000,1
+Population,number_of_cities_10_million_or_more,Number of cities by country – 10 million or more inhabitants,n,27,30,189,EG,Egypt,2005,1
+Population,number_of_cities_10_million_or_more,Number of cities by country – 10 million or more inhabitants,n,27,30,189,EG,Egypt,2010,1
+Population,number_of_cities_10_million_or_more,Number of cities by country – 10 million or more inhabitants,n,27,30,189,EG,Egypt,2015,1
+Health,children_with_diarrhea_rural,Proportion of children with diarrhea in last two weeks – Rural,p,27,30,189,EG,Egypt,1992,13.3
+Health,children_with_diarrhea_rural,Proportion of children with diarrhea in last two weeks – Rural,p,27,30,189,EG,Egypt,2000,7.8
+Health,children_with_diarrhea_rural,Proportion of children with diarrhea in last two weeks – Rural,p,27,30,189,EG,Egypt,2003,20.2
+Health,children_with_diarrhea_rural,Proportion of children with diarrhea in last two weeks – Rural,p,27,30,189,EG,Egypt,1995,16
+Population,pop_urban_percentage,Percentage of national population living in urban areas,p,27,30,189,EG,Egypt,2007,42.6
+Slum dwellers,urban_population_share_national,Share in national urban population,p,30.04996,31.249968,189,EG,Cairo,2000,35.1
+Slum dwellers,urban_population_share_national,Share in national urban population,p,30.04996,31.249968,189,EG,Cairo,2010,31.4
+Slum dwellers,urban_population_share_national,Share in national urban population,p,30.04996,31.249968,189,EG,Cairo,2020,30.7
+Streets,percentage_of_roads,Percentage of roads measured in length,p,27,30,189,EG,Egypt,2000,81
+City prosperity,cpi_environment_index,Environmental Sustainability index,p,30.04996,31.249968,189,EG,Cairo,2012,0.616
+City prosperity,cpi_environment_index,Environmental Sustainability index,p,30.04996,31.249968,189,EG,Cairo,2013,0.616
+Slum dwellers,urban_population_percentage_10m_or_more,Percentage of urban population (by country) – 10 million or more inhabitants,p,27,30,189,EG,Egypt,2020,34.67
+Slum dwellers,urban_population_percentage_10m_or_more,Percentage of urban population (by country) – 10 million or more inhabitants,p,27,30,189,EG,Egypt,2025,33.51
+Slum dwellers,urban_population_percentage_10m_or_more,Percentage of urban population (by country) – 10 million or more inhabitants,p,27,30,189,EG,Egypt,2000,37.14
+Slum dwellers,urban_population_percentage_10m_or_more,Percentage of urban population (by country) – 10 million or more inhabitants,p,27,30,189,EG,Egypt,2005,36.98
+Slum dwellers,urban_population_percentage_10m_or_more,Percentage of urban population (by country) – 10 million or more inhabitants,p,27,30,189,EG,Egypt,2010,36.73
+Slum dwellers,urban_population_percentage_10m_or_more,Percentage of urban population (by country) – 10 million or more inhabitants,p,27,30,189,EG,Egypt,2015,35.83
+Streets,proportion_land_allocated_to_street_total,Proportion of land allocated to street – total,p,31.200019,29.949996,189,EG,Alexandria,2013,7.9
+Streets,proportion_land_allocated_to_street_total,Proportion of land allocated to street – total,p,30.04996,31.249968,189,EG,Cairo,2013,11
+Slum dwellers,improved_floor,Access to improved flooring,p,27,30,189,EG,Egypt,2000,96
+Slum dwellers,improved_floor,Access to improved flooring,p,27,30,189,EG,Egypt,1992,94.3
+Slum dwellers,improved_floor,Access to improved flooring,p,27,30,189,EG,Egypt,2003,97.1
+Slum dwellers,improved_floor,Access to improved flooring,p,27,30,189,EG,Egypt,2005,98.3
+Slum dwellers,improved_floor,Access to improved flooring,p,27,30,189,EG,Egypt,1995,94.1
+Slum dwellers,literacy_rate_2_shelter_deprivation,Literacy rate by shelter deprivation – 2 Shelter deprivation,p,27,30,189,EG,Egypt,2005,75.7
+Slum dwellers,literacy_rate_women_urban,Literacy rate by shelter deprivation (Women) – Urban,p,27,30,189,EG,Egypt,2000,69.7
+Slum dwellers,literacy_rate_women_urban,Literacy rate by shelter deprivation (Women) – Urban,p,27,30,189,EG,Egypt,2003,73.7
+Slum dwellers,literacy_rate_women_urban,Literacy rate by shelter deprivation (Women) – Urban,p,27,30,189,EG,Egypt,2005,77.2
+Slum dwellers,literacy_rate_women_urban,Literacy rate by shelter deprivation (Women) – Urban,p,27,30,189,EG,Egypt,1995,65.9
+Population,population_estimate_urban_agglomerations,Population estimate of urban agglomeration,n,30.04996,31.249968,189,EG,Cairo,2013,15071000
+Transport,total_railway_route,Total railway route,km,27,30,189,EG,Egypt,1999,5150
+City prosperity,cpi_equity_index,Equity Index,p,30.04996,31.249968,189,EG,Cairo,2012,0.692
+City prosperity,cpi_equity_index,Equity Index,p,30.04996,31.249968,189,EG,Cairo,2013,0.692
+Slum dwellers,households_solid_waste_other_disposal_urban,Proportion of households who use other source disposal of solid waste – Urban,p,27,30,189,EG,Egypt,2005,11.5
+Slum dwellers,improved_sanitation_countries,Proportion of population with access to improved sanitation – Countries,p,27,30,189,EG,Egypt,2000,80.8
+Slum dwellers,improved_sanitation_countries,Proportion of population with access to improved sanitation – Countries,p,27,30,189,EG,Egypt,1992,74.3
+Slum dwellers,improved_sanitation_countries,Proportion of population with access to improved sanitation – Countries,p,27,30,189,EG,Egypt,2003,84.3
+Slum dwellers,improved_sanitation_countries,Proportion of population with access to improved sanitation – Countries,p,27,30,189,EG,Egypt,2005,86.1
+Slum dwellers,improved_sanitation_countries,Proportion of population with access to improved sanitation – Countries,p,27,30,189,EG,Egypt,1995,75.7
+Slum dwellers,households_solid_waste_burn_1_shelter_deprivation,Proportion of households who burn solid waste – 1 Shelter deprivation,p,27,30,189,EG,Egypt,2005,5.1
+Health,children_with_diarrhea_total,Proportion of children with diarrhea in last two weeks – Total,p,27,30,189,EG,Egypt,1992,13.3
+Health,children_with_diarrhea_total,Proportion of children with diarrhea in last two weeks – Total,p,27,30,189,EG,Egypt,2000,7.1
+Health,children_with_diarrhea_total,Proportion of children with diarrhea in last two weeks – Total,p,27,30,189,EG,Egypt,2003,18.9
+Health,children_with_diarrhea_total,Proportion of children with diarrhea in last two weeks – Total,p,27,30,189,EG,Egypt,1995,15.9
+City prosperity,cpi_5_dimensions,City Prosperity Index with 5 dimensions,p,30.04996,31.249968,189,EG,Cairo,2012,0.722
+City prosperity,cpi_infrastructure_index,Infrastructure Development index,p,30.04996,31.249968,189,EG,Cairo,2012,0.916
+City prosperity,cpi_infrastructure_index,Infrastructure Development index,p,30.04996,31.249968,189,EG,Cairo,2013,0.916
+Slum dwellers,improved_toilet,Access to improved toilet,p,27,30,189,EG,Egypt,2000,81.1
+Slum dwellers,improved_toilet,Access to improved toilet,p,27,30,189,EG,Egypt,1992,75.1
+Slum dwellers,improved_toilet,Access to improved toilet,p,27,30,189,EG,Egypt,2003,84.8
+Slum dwellers,improved_toilet,Access to improved toilet,p,27,30,189,EG,Egypt,2005,86.5
+Slum dwellers,improved_toilet,Access to improved toilet,p,27,30,189,EG,Egypt,1995,74.8
+Streets,paved_road,Paved roads,p,27,30,189,EG,Egypt,2009,89.4
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,27,30,189,EG,Egypt,1990,93.2
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,27,30,189,EG,Egypt,1995,71.7
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,27,30,189,EG,Egypt,2000,50.8
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,27,30,189,EG,Egypt,1970,236.3
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,27,30,189,EG,Egypt,2005,39.9
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,27,30,189,EG,Egypt,2007,36.2
+Population,under_5_mortality_rate,Under-Five mortality rate (Deaths per 1000 live births),n,27,30,189,EG,Egypt,1980,175.5
+Slum dwellers,households_solid_waste_collected_slum,Proportion of households whose solid waste is collected (by public or private services) – Slum,p,27,30,189,EG,Egypt,2005,68
+Streets,total_length_road,Total length of road network (km),n,27,30,189,EG,Egypt,2009,100472
+Streets,proportion_land_allocated_to_street_sub_urban_area,Proportion of land allocated to street – suburban area,p,31.200019,29.949996,189,EG,Alexandria,2013,5.5
+Streets,proportion_land_allocated_to_street_sub_urban_area,Proportion of land allocated to street – suburban area,p,30.04996,31.249968,189,EG,Cairo,2013,6.8
+Slum dwellers,urban_population_percentage_5m_to_10m,Percentage of urban population (by country) – 5 to 10 million inhabitants,p,27,30,189,EG,Egypt,1985,38.54
+Slum dwellers,urban_population_percentage_5m_to_10m,Percentage of urban population (by country) – 5 to 10 million inhabitants,p,27,30,189,EG,Egypt,1990,37.8
+Slum dwellers,urban_population_percentage_5m_to_10m,Percentage of urban population (by country) – 5 to 10 million inhabitants,p,27,30,189,EG,Egypt,1995,37.38
+Slum dwellers,urban_population_percentage_5m_to_10m,Percentage of urban population (by country) – 5 to 10 million inhabitants,p,27,30,189,EG,Egypt,1970,37.6
+Slum dwellers,urban_population_percentage_5m_to_10m,Percentage of urban population (by country) – 5 to 10 million inhabitants,p,27,30,189,EG,Egypt,1975,37.89
+Slum dwellers,urban_population_percentage_5m_to_10m,Percentage of urban population (by country) – 5 to 10 million inhabitants,p,27,30,189,EG,Egypt,1980,38.37
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,29.080381,31.09003,189,EG,Beni Suef,1990,47.7
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,29.080381,31.09003,189,EG,Beni Suef,1992,51.9
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,29.080381,31.09003,189,EG,Beni Suef,1993,55
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,29.080381,31.09003,189,EG,Beni Suef,1995,57.6
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,29.080381,31.09003,189,EG,Beni Suef,1998,67.1
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,29.080381,31.09003,189,EG,Beni Suef,2000,72
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,29.080381,31.09003,189,EG,Beni Suef,2003,79.3
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,29.080381,31.09003,189,EG,Beni Suef,2005,72.5
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,31.200019,29.949996,189,EG,Alexandria,1990,79.5
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,31.200019,29.949996,189,EG,Alexandria,1992,85.4
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,31.200019,29.949996,189,EG,Alexandria,1993,82.6
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,31.200019,29.949996,189,EG,Alexandria,1995,79.4
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,31.200019,29.949996,189,EG,Alexandria,1998,87.7
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,31.200019,29.949996,189,EG,Alexandria,2000,89.7
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,31.200019,29.949996,189,EG,Alexandria,2003,92.8
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,31.200019,29.949996,189,EG,Alexandria,2005,93.1
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,30.04996,31.249968,189,EG,Cairo,1990,74.2
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,30.04996,31.249968,189,EG,Cairo,1992,79.1
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,30.04996,31.249968,189,EG,Cairo,1993,77.3
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,30.04996,31.249968,189,EG,Cairo,1995,76.2
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,30.04996,31.249968,189,EG,Cairo,1998,82.5
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,30.04996,31.249968,189,EG,Cairo,2000,84.5
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,30.04996,31.249968,189,EG,Cairo,2003,87.6
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,30.04996,31.249968,189,EG,Cairo,2005,89.6
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,30.004976,32.549941,189,EG,Suez,1990,81.4
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,30.004976,32.549941,189,EG,Suez,1992,84.3
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,30.004976,32.549941,189,EG,Suez,1993,83.4
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,30.004976,32.549941,189,EG,Suez,1995,82.2
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,30.004976,32.549941,189,EG,Suez,1998,86.6
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,30.004976,32.549941,189,EG,Suez,2000,87.9
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,30.004976,32.549941,189,EG,Suez,2003,89.8
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,30.004976,32.549941,189,EG,Suez,2005,89.8
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,31.25999,32.290008,189,EG,Bur Said,1990,89.1
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,31.25999,32.290008,189,EG,Bur Said,1992,90.1
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,31.25999,32.290008,189,EG,Bur Said,1993,90.7
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,31.25999,32.290008,189,EG,Bur Said,1995,90.1
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,31.25999,32.290008,189,EG,Bur Said,1998,93.3
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,31.25999,32.290008,189,EG,Bur Said,2000,94.4
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,31.25999,32.290008,189,EG,Bur Said,2003,96
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,31.25999,32.290008,189,EG,Bur Said,2005,95.7
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,24.087508,32.898911,189,EG,Aswan,1990,62.3
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,24.087508,32.898911,189,EG,Aswan,1992,66.5
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,24.087508,32.898911,189,EG,Aswan,1993,63.8
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,24.087508,32.898911,189,EG,Aswan,1995,56.8
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,24.087508,32.898911,189,EG,Aswan,1998,66.2
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,24.087508,32.898911,189,EG,Aswan,2000,67.1
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,24.087508,32.898911,189,EG,Aswan,2003,68.6
+Slum dwellers,improved_sanitation_cities,Proportion of population with access to improved sanitation – Cities,p,24.087508,32.898911,189,EG,Aswan,2005,69.7
+Population,base_year_population_estimate,Urban agglomeration base year population estimate,n,30.04996,31.249968,189,EG,Cairo,2013,14500000
+Transport,owner_bicycle_rural,Ownership of bicycle – rural area,p,27,30,189,EG,Egypt,2000,16.5
+Transport,owner_bicycle_rural,Ownership of bicycle – rural area,p,27,30,189,EG,Egypt,2008,13.5
+Transport,owner_bicycle_rural,Ownership of bicycle – rural area,p,27,30,189,EG,Egypt,1995,16
+Transport,owner_bicycle_rural,Ownership of bicycle – rural area,p,27,30,189,EG,Egypt,1992,13.3
+Transport,owner_bicycle_rural,Ownership of bicycle – rural area,p,27,30,189,EG,Egypt,2005,19.2
+Slum dwellers,protected_well,Access to protected well,p,27,30,189,EG,Egypt,2000,0.3
+Slum dwellers,protected_well,Access to protected well,p,27,30,189,EG,Egypt,2003,0.2
+Slum dwellers,protected_well,Access to protected well,p,27,30,189,EG,Egypt,2005,0.1
+Transport,passengers_carried_by_railway,Passengers carried by railway (million passengers/km),n,27,30,189,EG,Egypt,2000,40837
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,27,30,189,EG,Egypt,2020,6
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,27,30,189,EG,Egypt,2025,6
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,27,30,189,EG,Egypt,2000,1
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,27,30,189,EG,Egypt,2005,2
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,27,30,189,EG,Egypt,2010,2
+Population,number_of_cities_500k_1_million,Number of cities by country – 500 000 to 1 million inhabitants,n,27,30,189,EG,Egypt,2015,3
+Slum dwellers,piped_water,Access to piped water,p,27,30,189,EG,Egypt,2000,97
+Slum dwellers,piped_water,Access to piped water,p,27,30,189,EG,Egypt,1992,91.4
+Slum dwellers,piped_water,Access to piped water,p,27,30,189,EG,Egypt,2003,98.6
+Slum dwellers,piped_water,Access to piped water,p,27,30,189,EG,Egypt,2005,98
+Slum dwellers,piped_water,Access to piped water,p,27,30,189,EG,Egypt,1995,92.4
+Slum dwellers,literacy_rate_rural,Literacy rate by shelter deprivation – Rural,p,27,30,189,EG,Egypt,2000,34.8
+Slum dwellers,literacy_rate_rural,Literacy rate by shelter deprivation – Rural,p,27,30,189,EG,Egypt,2003,42.9
+Slum dwellers,literacy_rate_rural,Literacy rate by shelter deprivation – Rural,p,27,30,189,EG,Egypt,2005,64.2
+Slum dwellers,literacy_rate_rural,Literacy rate by shelter deprivation – Rural,p,27,30,189,EG,Egypt,1995,30
+Slum dwellers,literacy_rate_women_1_shelter_deprivation,Literacy rate by shelter deprivation (Women) – 1 Shelter deprivation,p,27,30,189,EG,Egypt,2005,64.9
+Streets,street_density_index_city_core,Street density index – City core,index,31.200019,29.949996,189,EG,Alexandria,2013,0.481
+Streets,street_density_index_city_core,Street density index – City core,index,30.04996,31.249968,189,EG,Cairo,2013,0.507
+Resilience,loss_of_lives_in_floods_per_million_population,Number of loss of lives in floods per million population,n,27,30,189,EG,Egypt,1980,0.48
+Streets,road_density_national_roads,Road density (km/100km²),n,27,30,189,EG,Egypt,2009,10
+Education,net_enrolment_rate_non_slum,Net enrolment rate in primary education in urban and rural areas (Male) – Non slum,p,27,30,189,EG,Egypt,1992,91.4
+Education,net_enrolment_rate_non_slum,Net enrolment rate in primary education in urban and rural areas (Male) – Non slum,p,27,30,189,EG,Egypt,2000,89.3
+Education,net_enrolment_rate_non_slum,Net enrolment rate in primary education in urban and rural areas (Male) – Non slum,p,27,30,189,EG,Egypt,1995,94.8
+Education,net_enrolment_rate_non_slum,Net enrolment rate in primary education in urban and rural areas (Male) – Non slum,p,27,30,189,EG,Egypt,2005,88.6
+Education,net_enrolment_rate_non_slum,Net enrolment rate in primary education in urban and rural areas (Male) – Non slum,p,27,30,189,EG,Egypt,2003,85
+Slum dwellers,urban_slum_population_countries,Urban slum population – Countries,1000,27,30,189,EG,Egypt,1990,12607
+Slum dwellers,urban_slum_population_countries,Urban slum population – Countries,1000,27,30,189,EG,Egypt,1995,10704
+Slum dwellers,urban_slum_population_countries,Urban slum population – Countries,1000,27,30,189,EG,Egypt,2000,8447
+Slum dwellers,urban_slum_population_countries,Urban slum population – Countries,1000,27,30,189,EG,Egypt,2005,5677
+Slum dwellers,urban_slum_population_countries,Urban slum population – Countries,1000,27,30,189,EG,Egypt,2007,5903
+Slum dwellers,urban_slum_population_countries,Urban slum population – Countries,1000,27,30,189,EG,Egypt,2009,6143
+Health,children_with_diarrhea_non_slum,Proportion of children with diarrhea in last two weeks – Non-slum,p,27,30,189,EG,Egypt,1992,11.4
+Slum dwellers,households_solid_waste_collected_urban,Proportion of households whose solid waste is collected (by public or private services) – Urban,p,27,30,189,EG,Egypt,2005,86.6
+Health,children_with_diarrhea_urban,Proportion of children with diarrhea in last two weeks – Urban,p,27,30,189,EG,Egypt,1992,13.3
+Health,children_with_diarrhea_urban,Proportion of children with diarrhea in last two weeks – Urban,p,27,30,189,EG,Egypt,2000,6.1
+Health,children_with_diarrhea_urban,Proportion of children with diarrhea in last two weeks – Urban,p,27,30,189,EG,Egypt,2003,16.8
+Health,children_with_diarrhea_urban,Proportion of children with diarrhea in last two weeks – Urban,p,27,30,189,EG,Egypt,1995,15.7
+Health,children_with_diarrhea_1_shelter_deprivation,Proportion of children with diarrhea in last two weeks – 1 Shelter deprivation,p,27,30,189,EG,Egypt,1992,13.7
+Resilience,loss_of_lives_in_floods,Average annual loss of lives in floods,n,27,30,189,EG,Egypt,1980,28.95
+Slum dwellers,households_solid_waste_burn_urban,Proportion of households who burn solid waste – Urban ,p,27,30,189,EG,Egypt,2005,1.9
+Population,has_telephone,Access to telephone,p,27,30,189,EG,Egypt,2000,44.7
+Population,has_telephone,Access to telephone,p,27,30,189,EG,Egypt,2003,63.9
+Population,has_telephone,Access to telephone,p,27,30,189,EG,Egypt,2005,73.4
+Slum dwellers,improved_flush_toilet,Access to improved flush toilet,p,27,30,189,EG,Egypt,2000,62.6
+Slum dwellers,improved_flush_toilet,Access to improved flush toilet,p,27,30,189,EG,Egypt,1992,50.1
+Slum dwellers,improved_flush_toilet,Access to improved flush toilet,p,27,30,189,EG,Egypt,2003,68.9
+Slum dwellers,improved_flush_toilet,Access to improved flush toilet,p,27,30,189,EG,Egypt,2005,72.6
+Slum dwellers,improved_flush_toilet,Access to improved flush toilet,p,27,30,189,EG,Egypt,1995,52.4
+City prosperity,cpi_6_dimensions,City Prosperity Index with 6 dimensions,index,30.04996,31.249968,189,EG,Cairo,2013,0.707
+Slum dwellers,literacy_rate_women_slum,Literacy rate by shelter deprivation (Women) – Slum,p,27,30,189,EG,Egypt,2000,56
+Slum dwellers,literacy_rate_women_slum,Literacy rate by shelter deprivation (Women) – Slum,p,27,30,189,EG,Egypt,2003,60.2
+Slum dwellers,literacy_rate_women_slum,Literacy rate by shelter deprivation (Women) – Slum,p,27,30,189,EG,Egypt,2005,69.7
+Slum dwellers,literacy_rate_women_slum,Literacy rate by shelter deprivation (Women) – Slum,p,27,30,189,EG,Egypt,1995,31.6
+Resilience,loss_of_lives_by_earthquake_per_million_population,Number of loss of lives by earthquake per million population,n,27,30,189,EG,Egypt,1980,0.45
+Slum dwellers,pump_borehole,Access to pump/borehole,p,27,30,189,EG,Egypt,2005,0.1
+Slum dwellers,households_solid_waste_other_disposal_slum,Proportion of households who use other source disposal of solid waste – Slum,p,27,30,189,EG,Egypt,2005,25.5
+Slum dwellers,literacy_rate_women_rural,Literacy rate by shelter deprivation (Women) – Rural,p,27,30,189,EG,Egypt,2000,34.8
+Slum dwellers,literacy_rate_women_rural,Literacy rate by shelter deprivation (Women) – Rural,p,27,30,189,EG,Egypt,2003,42.9
+Slum dwellers,literacy_rate_women_rural,Literacy rate by shelter deprivation (Women) – Rural,p,27,30,189,EG,Egypt,2005,64.2
+Slum dwellers,literacy_rate_women_rural,Literacy rate by shelter deprivation (Women) – Rural,p,27,30,189,EG,Egypt,1995,30
+Transport,owner_motorcycle_total,Ownership of motorcycle – total,p,27,30,189,EG,Egypt,2008,2.5
+Transport,owner_motorcycle_total,Ownership of motorcycle – total,p,27,30,189,EG,Egypt,2000,1.8
+Transport,owner_motorcycle_total,Ownership of motorcycle – total,p,27,30,189,EG,Egypt,2005,1.6
+Slum dwellers,public_tap_pump_borehole,Access to public tap/pump/borehole,p,27,30,189,EG,Egypt,1992,5.9
+Slum dwellers,public_tap_pump_borehole,Access to public tap/pump/borehole,p,27,30,189,EG,Egypt,2000,2
+Slum dwellers,public_tap_pump_borehole,Access to public tap/pump/borehole,p,27,30,189,EG,Egypt,1995,4.1
+Slum dwellers,public_tap_pump_borehole,Access to public tap/pump/borehole,p,27,30,189,EG,Egypt,2005,0.9
+Slum dwellers,public_tap_pump_borehole,Access to public tap/pump/borehole,p,27,30,189,EG,Egypt,2003,1.2
+Population,population,Total population,1000,27,30,189,EG,Egypt,2050,121219
+Population,population,Total population,1000,27,30,189,EG,Egypt,1950,21834
+Population,population,Total population,1000,27,30,189,EG,Egypt,1955,24692
+Population,population,Total population,1000,27,30,189,EG,Egypt,1960,27840
+Population,population,Total population,1000,27,30,189,EG,Egypt,1965,31563
+Population,population,Total population,1000,27,30,189,EG,Egypt,1970,35190
+Population,population,Total population,1000,27,30,189,EG,Egypt,1975,39174
+Population,population,Total population,1000,27,30,189,EG,Egypt,1980,43674
+Population,population,Total population,1000,27,30,189,EG,Egypt,1985,49186
+Population,population,Total population,1000,27,30,189,EG,Egypt,1990,55137
+Population,population,Total population,1000,27,30,189,EG,Egypt,1995,60648
+Population,population,Total population,1000,27,30,189,EG,Egypt,2000,66529
+Population,population,Total population,1000,27,30,189,EG,Egypt,2005,72850
+Population,population,Total population,1000,27,30,189,EG,Egypt,2007,75498
+Population,population,Total population,1000,27,30,189,EG,Egypt,2010,79537
+Population,population,Total population,1000,27,30,189,EG,Egypt,2015,86219
+Population,population,Total population,1000,27,30,189,EG,Egypt,2020,92578
+Population,population,Total population,1000,27,30,189,EG,Egypt,2025,98513
+Population,population,Total population,1000,27,30,189,EG,Egypt,2030,104070
+Population,population,Total population,1000,27,30,189,EG,Egypt,2035,109238
+Population,population,Total population,1000,27,30,189,EG,Egypt,2040,113895
+Population,population,Total population,1000,27,30,189,EG,Egypt,2045,117921
+Transport,owner_bicycle_urban_area,Ownership of bicycle – urban area,p,27,30,189,EG,Egypt,1992,12.4
+Transport,owner_bicycle_urban_area,Ownership of bicycle – urban area,p,27,30,189,EG,Egypt,2000,11.5
+Transport,owner_bicycle_urban_area,Ownership of bicycle – urban area,p,27,30,189,EG,Egypt,1995,13.5
+Transport,owner_bicycle_urban_area,Ownership of bicycle – urban area,p,27,30,189,EG,Egypt,2008,5.8
+Transport,owner_bicycle_urban_area,Ownership of bicycle – urban area,p,27,30,189,EG,Egypt,2005,9.4
+Land area,urban_agglomeration_land_area,Urban agglomeration land area (km²),n,30.04996,31.249968,189,EG,Cairo,2013,1658
+Slum dwellers,distribution_of_solid_cooking_fuel_non_slum,Percent distribution of solid cooking fuel – Non slum,p,27,30,189,EG,Egypt,2005,0.1
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,27,30,189,EG,Egypt,1985,1
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,27,30,189,EG,Egypt,2020,1
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,27,30,189,EG,Egypt,1990,1
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,27,30,189,EG,Egypt,2025,1
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,27,30,189,EG,Egypt,1995,1
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,27,30,189,EG,Egypt,1970,1
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,27,30,189,EG,Egypt,1975,1
+Population,number_of_cities_5_10_million,Number of cities by country – 5 to 10 million inhabitants,n,27,30,189,EG,Egypt,1980,1
+Streets,street_density_total,Street density (km/km²) – total,n,31.200019,29.949996,189,EG,Alexandria,2013,9.6
+Streets,street_density_total,Street density (km/km²) – total,n,30.04996,31.249968,189,EG,Cairo,2013,11
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,29.080381,31.09003,189,EG,Beni Suef,1990,87.3
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,29.080381,31.09003,189,EG,Beni Suef,1992,56.9
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,29.080381,31.09003,189,EG,Beni Suef,1993,90.6
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,29.080381,31.09003,189,EG,Beni Suef,1995,77.8
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,29.080381,31.09003,189,EG,Beni Suef,1998,90.6
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,29.080381,31.09003,189,EG,Beni Suef,2000,90.6
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,29.080381,31.09003,189,EG,Beni Suef,2003,80.6
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,29.080381,31.09003,189,EG,Beni Suef,2005,90.2
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,31.200019,29.949996,189,EG,Alexandria,1990,99.6
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,31.200019,29.949996,189,EG,Alexandria,1992,99
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,31.200019,29.949996,189,EG,Alexandria,1993,99.7
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,31.200019,29.949996,189,EG,Alexandria,1995,95.7
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,31.200019,29.949996,189,EG,Alexandria,1998,98.6
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,31.200019,29.949996,189,EG,Alexandria,2000,98.6
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,31.200019,29.949996,189,EG,Alexandria,2003,98.5
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,31.200019,29.949996,189,EG,Alexandria,2005,100
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,30.04996,31.249968,189,EG,Cairo,1990,99
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,30.04996,31.249968,189,EG,Cairo,1992,99.1
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,30.04996,31.249968,189,EG,Cairo,1993,99.2
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,30.04996,31.249968,189,EG,Cairo,1995,98.2
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,30.04996,31.249968,189,EG,Cairo,1998,98.7
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,30.04996,31.249968,189,EG,Cairo,2000,98.7
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,30.04996,31.249968,189,EG,Cairo,2003,98.9
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,30.04996,31.249968,189,EG,Cairo,2005,99.6
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,30.004976,32.549941,189,EG,Suez,1990,99.4
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,30.004976,32.549941,189,EG,Suez,1992,99.1
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,30.004976,32.549941,189,EG,Suez,1993,99.5
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,30.004976,32.549941,189,EG,Suez,1995,98.7
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,30.004976,32.549941,189,EG,Suez,1998,97.8
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,30.004976,32.549941,189,EG,Suez,2000,97.8
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,30.004976,32.549941,189,EG,Suez,2003,99.7
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,30.004976,32.549941,189,EG,Suez,2005,99.9
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,31.25999,32.290008,189,EG,Bur Said,1990,97.7
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,31.25999,32.290008,189,EG,Bur Said,1992,97.3
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,31.25999,32.290008,189,EG,Bur Said,1993,97.5
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,31.25999,32.290008,189,EG,Bur Said,1995,99.6
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,31.25999,32.290008,189,EG,Bur Said,1998,98.1
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,31.25999,32.290008,189,EG,Bur Said,2000,98.1
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,31.25999,32.290008,189,EG,Bur Said,2003,99.3
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,31.25999,32.290008,189,EG,Bur Said,2005,97
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,24.087508,32.898911,189,EG,Aswan,1990,97.2
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,24.087508,32.898911,189,EG,Aswan,1992,77.8
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,24.087508,32.898911,189,EG,Aswan,1993,97.8
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,24.087508,32.898911,189,EG,Aswan,1995,68.6
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,24.087508,32.898911,189,EG,Aswan,1998,85
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,24.087508,32.898911,189,EG,Aswan,2000,85
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,24.087508,32.898911,189,EG,Aswan,2003,83.1
+Slum dwellers,durable_housing_urban_population_cities,Proportion of urban population with durable housing – Cities,p,24.087508,32.898911,189,EG,Aswan,2005,90.6
+Slum dwellers,literacy_rate_3_shelter_deprivation,Literacy rate by shelter deprivation – 3 Shelter deprivation,p,27,30,189,EG,Egypt,2005,50
+City prosperity,cpi_quality_of_live_index,Quality of life index,p,30.04996,31.249968,189,EG,Cairo,2012,0.743
+City prosperity,cpi_quality_of_live_index,Quality of life index,p,30.04996,31.249968,189,EG,Cairo,2013,0.743
+Transport,owner_bicycle_total,Ownership of bicycle – total,p,27,30,189,EG,Egypt,2000,14
+Transport,owner_bicycle_total,Ownership of bicycle – total,p,27,30,189,EG,Egypt,1992,12.8
+Transport,owner_bicycle_total,Ownership of bicycle – total,p,27,30,189,EG,Egypt,1995,14.7
+Transport,owner_bicycle_total,Ownership of bicycle – total,p,27,30,189,EG,Egypt,2008,9.8
+Transport,owner_bicycle_total,Ownership of bicycle – total,p,27,30,189,EG,Egypt,2005,14.5
+Streets,composite_street_connectivity_index_city_core,Composite Street Connectivity Index – city core,index,31.200019,29.949996,189,EG,Alexandria,2013,0.579
+Streets,composite_street_connectivity_index_city_core,Composite Street Connectivity Index – city core,index,30.04996,31.249968,189,EG,Cairo,2013,0.636
+Slum dwellers,connection_to_electricity,Connection to electricity,p,27,30,189,EG,Egypt,2000,99.5
+Slum dwellers,connection_to_electricity,Connection to electricity,p,27,30,189,EG,Egypt,1992,98.4
+Slum dwellers,connection_to_electricity,Connection to electricity,p,27,30,189,EG,Egypt,2003,99.7
+Slum dwellers,connection_to_electricity,Connection to electricity,p,27,30,189,EG,Egypt,2005,99.8
+Slum dwellers,connection_to_electricity,Connection to electricity,p,27,30,189,EG,Egypt,1995,99
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,27,30,189,EG,Egypt,1985,1
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,27,30,189,EG,Egypt,1955,2
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,27,30,189,EG,Egypt,1990,1
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,27,30,189,EG,Egypt,1960,2
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,27,30,189,EG,Egypt,1995,1
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,27,30,189,EG,Egypt,1965,2
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,27,30,189,EG,Egypt,2000,1
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,27,30,189,EG,Egypt,1970,1
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,27,30,189,EG,Egypt,2005,1
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,27,30,189,EG,Egypt,1975,1
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,27,30,189,EG,Egypt,2010,1
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,27,30,189,EG,Egypt,1980,1
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,27,30,189,EG,Egypt,1950,2
+Population,number_of_cities_1_5_million,Number of cities by country – 1 to 5 million inhabitants,n,27,30,189,EG,Egypt,2015,1
+Slum dwellers,urban_population_living_in_slum,Proportion of urban population living in slum area,p,27,30,189,EG,Egypt,1990,50.2
+Slum dwellers,urban_population_living_in_slum,Proportion of urban population living in slum area,p,27,30,189,EG,Egypt,1995,39.2
+Slum dwellers,urban_population_living_in_slum,Proportion of urban population living in slum area,p,27,30,189,EG,Egypt,2000,28.1
+Slum dwellers,urban_population_living_in_slum,Proportion of urban population living in slum area,p,27,30,189,EG,Egypt,2005,17.1
+Slum dwellers,urban_population_living_in_slum,Proportion of urban population living in slum area,p,27,30,189,EG,Egypt,2007,17.1
+Slum dwellers,urban_population_living_in_slum,Proportion of urban population living in slum area,p,27,30,189,EG,Egypt,2009,17.1
+Education,net_enrolment_rate_slum,Net enrolment rate in primary education in urban and rural areas (Male) – Slum,p,27,30,189,EG,Egypt,1992,89.8
+Education,net_enrolment_rate_slum,Net enrolment rate in primary education in urban and rural areas (Male) – Slum,p,27,30,189,EG,Egypt,2000,81.8
+Education,net_enrolment_rate_slum,Net enrolment rate in primary education in urban and rural areas (Male) – Slum,p,27,30,189,EG,Egypt,1995,88.6
+Education,net_enrolment_rate_slum,Net enrolment rate in primary education in urban and rural areas (Male) – Slum,p,27,30,189,EG,Egypt,2005,86.2
+Education,net_enrolment_rate_slum,Net enrolment rate in primary education in urban and rural areas (Male) – Slum,p,27,30,189,EG,Egypt,2003,81.2
+Education,net_enrolment_rate_3_shelter_deprivation,Net enrolment rate in primary education in urban and rural areas (Male) – 3 Shelter deprivation,p,27,30,189,EG,Egypt,1992,76.6
+Education,net_enrolment_rate_3_shelter_deprivation,Net enrolment rate in primary education in urban and rural areas (Male) – 3 Shelter deprivation,p,27,30,189,EG,Egypt,2000,43.6
+Education,net_enrolment_rate_3_shelter_deprivation,Net enrolment rate in primary education in urban and rural areas (Male) – 3 Shelter deprivation,p,27,30,189,EG,Egypt,1995,80.2
+Education,net_enrolment_rate_3_shelter_deprivation,Net enrolment rate in primary education in urban and rural areas (Male) – 3 Shelter deprivation,p,27,30,189,EG,Egypt,2005,89.8
+Education,net_enrolment_rate_3_shelter_deprivation,Net enrolment rate in primary education in urban and rural areas (Male) – 3 Shelter deprivation,p,27,30,189,EG,Egypt,2003,36.8
+Streets,intersection_density_total,Intersection density (km²) – total,n,30.04996,31.249968,189,EG,Cairo,2013,143
+Slum dwellers,households_solid_waste_collected_non_slum,Proportion of households whose solid waste is collected (by public or private services) – Non slum,p,27,30,189,EG,Egypt,2005,90.3
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,27,30,189,EG,Egypt,1985,-0.21
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,27,30,189,EG,Egypt,1955,1.67
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,27,30,189,EG,Egypt,2020,0.92
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,27,30,189,EG,Egypt,1990,-0.31
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,27,30,189,EG,Egypt,1960,1.44
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,27,30,189,EG,Egypt,2025,1.15
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,27,30,189,EG,Egypt,1995,-0.08
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,27,30,189,EG,Egypt,1965,0.74
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,27,30,189,EG,Egypt,2030,1.23
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,27,30,189,EG,Egypt,1970,0.58
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,27,30,189,EG,Egypt,2035,1.15
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,27,30,189,EG,Egypt,2005,0.07
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,27,30,189,EG,Egypt,1975,0.19
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,27,30,189,EG,Egypt,2040,1.07
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,27,30,189,EG,Egypt,2010,0.36
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,27,30,189,EG,Egypt,1980,0.04
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,27,30,189,EG,Egypt,2045,1
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,27,30,189,EG,Egypt,1950,1.74
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,27,30,189,EG,Egypt,2015,0.65
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,30.04996,31.249968,189,EG,Cairo,2000,0.81
+Population,avg_annual_rate_change_percentage_urban,Average annual rate of change of population – Urban,p,30.04996,31.249968,189,EG,Cairo,2010,1.84
+Streets,intersection_density_city_core,Intersection density (#/km²) – city core,n,31.200019,29.949996,189,EG,Alexandria,2013,194.2
+Streets,intersection_density_city_core,Intersection density (#/km²) – city core,n,30.04996,31.249968,189,EG,Cairo,2013,204.1
+Transport,owner_motorcycle_urban_area,Ownership of motorcycle – urban area,p,27,30,189,EG,Egypt,2008,1.9
+Transport,owner_motorcycle_urban_area,Ownership of motorcycle – urban area,p,27,30,189,EG,Egypt,2000,1.7
+Transport,owner_motorcycle_urban_area,Ownership of motorcycle – urban area,p,27,30,189,EG,Egypt,2005,1.4
+Transport,passengers_carried_by_air,Passengers carried by air,1000,27,30,189,EG,Egypt,2004,4584
+Population,percentage_of_international_migrants,Percentage of international migrants,p,27,30,189,EG,Egypt,2000,0.3
+Population,percentage_of_international_migrants,Percentage of international migrants,p,27,30,189,EG,Egypt,1995,0.3
+Population,percentage_of_international_migrants,Percentage of international migrants,p,27,30,189,EG,Egypt,2005,0.2
+Education,net_enrolment_rate_urban,Net enrolment rate in primary education in urban and rural areas (Male) – Urban,p,27,30,189,EG,Egypt,1992,90.5
+Education,net_enrolment_rate_urban,Net enrolment rate in primary education in urban and rural areas (Male) – Urban,p,27,30,189,EG,Egypt,2000,87.1
+Education,net_enrolment_rate_urban,Net enrolment rate in primary education in urban and rural areas (Male) – Urban,p,27,30,189,EG,Egypt,1995,91.6
+Education,net_enrolment_rate_urban,Net enrolment rate in primary education in urban and rural areas (Male) – Urban,p,27,30,189,EG,Egypt,2005,88.1
+Education,net_enrolment_rate_urban,Net enrolment rate in primary education in urban and rural areas (Male) – Urban,p,27,30,189,EG,Egypt,2003,84.1
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,29.080381,31.09003,189,EG,Beni Suef,1990,87.3
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,29.080381,31.09003,189,EG,Beni Suef,1992,88.1
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,29.080381,31.09003,189,EG,Beni Suef,1993,90.6
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,29.080381,31.09003,189,EG,Beni Suef,1995,88.9
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,29.080381,31.09003,189,EG,Beni Suef,1998,95.9
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,29.080381,31.09003,189,EG,Beni Suef,2000,99.1
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,29.080381,31.09003,189,EG,Beni Suef,2003,100
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,29.080381,31.09003,189,EG,Beni Suef,2005,100
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,31.200019,29.949996,189,EG,Alexandria,1990,99.6
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,31.200019,29.949996,189,EG,Alexandria,1992,99.5
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,31.200019,29.949996,189,EG,Alexandria,1993,99.7
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,31.200019,29.949996,189,EG,Alexandria,1995,99.7
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,31.200019,29.949996,189,EG,Alexandria,1998,99.7
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,31.200019,29.949996,189,EG,Alexandria,2000,99.7
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,31.200019,29.949996,189,EG,Alexandria,2003,99.8
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,31.200019,29.949996,189,EG,Alexandria,2005,99.9
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,24.087508,32.898911,189,EG,Aswan,1990,97.2
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,24.087508,32.898911,189,EG,Aswan,1992,96.7
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,24.087508,32.898911,189,EG,Aswan,1993,97.8
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,24.087508,32.898911,189,EG,Aswan,1995,95.5
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,24.087508,32.898911,189,EG,Aswan,1998,98.8
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,24.087508,32.898911,189,EG,Aswan,2000,100
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,24.087508,32.898911,189,EG,Aswan,2003,100
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,24.087508,32.898911,189,EG,Aswan,2005,99.9
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,30.004976,32.549941,189,EG,Suez,1990,99.4
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,30.004976,32.549941,189,EG,Suez,1992,99.5
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,30.004976,32.549941,189,EG,Suez,1993,99.5
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,30.004976,32.549941,189,EG,Suez,1995,99.1
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,30.004976,32.549941,189,EG,Suez,1998,99.5
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,30.004976,32.549941,189,EG,Suez,2000,99.7
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,30.004976,32.549941,189,EG,Suez,2003,99.6
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,30.004976,32.549941,189,EG,Suez,2005,100
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,31.25999,32.290008,189,EG,Bur Said,1990,97.7
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,31.25999,32.290008,189,EG,Bur Said,1992,96.5
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,31.25999,32.290008,189,EG,Bur Said,1993,97.5
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,31.25999,32.290008,189,EG,Bur Said,1995,98.7
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,31.25999,32.290008,189,EG,Bur Said,1998,97.1
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,31.25999,32.290008,189,EG,Bur Said,2000,96.5
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,31.25999,32.290008,189,EG,Bur Said,2003,100
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,31.25999,32.290008,189,EG,Bur Said,2005,97.6
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,30.04996,31.249968,189,EG,Cairo,1990,99
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,30.04996,31.249968,189,EG,Cairo,1992,99.5
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,30.04996,31.249968,189,EG,Cairo,1993,99.2
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,30.04996,31.249968,189,EG,Cairo,1995,98.6
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,30.04996,31.249968,189,EG,Cairo,1998,99.6
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,30.04996,31.249968,189,EG,Cairo,2000,100
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,30.04996,31.249968,189,EG,Cairo,2003,99.9
+Slum dwellers,improved_water_sustainable_access_cities,Proportion of population with sustainable access to an improved water source – Cities,p,30.04996,31.249968,189,EG,Cairo,2005,99.6
+Health,children_with_diarrhea_2_shelter_deprivation,Proportion of children with diarrhea in last two weeks – 2 Shelter deprivation,p,27,30,189,EG,Egypt,1992,18.4
+Education,net_enrolment_rate_rural,Net enrolment rate in primary education in urban and rural areas (Male) – Rural,p,27,30,189,EG,Egypt,2000,86.8
+Education,net_enrolment_rate_rural,Net enrolment rate in primary education in urban and rural areas (Male) – Rural,p,27,30,189,EG,Egypt,1992,84.7
+Education,net_enrolment_rate_rural,Net enrolment rate in primary education in urban and rural areas (Male) – Rural,p,27,30,189,EG,Egypt,1995,85.9
+Education,net_enrolment_rate_rural,Net enrolment rate in primary education in urban and rural areas (Male) – Rural,p,27,30,189,EG,Egypt,2005,85.4
+Education,net_enrolment_rate_rural,Net enrolment rate in primary education in urban and rural areas (Male) – Rural,p,27,30,189,EG,Egypt,2003,82.6
+Population,population_cities_by_country_10m_or_more,Population in cities by country – cities with 10 million or more inhabitants,1000,27,30,189,EG,Egypt,2020,14451
+Population,population_cities_by_country_10m_or_more,Population in cities by country – cities with 10 million or more inhabitants,1000,27,30,189,EG,Egypt,2025,15561
+Population,population_cities_by_country_10m_or_more,Population in cities by country – cities with 10 million or more inhabitants,1000,27,30,189,EG,Egypt,2000,10534
+Population,population_cities_by_country_10m_or_more,Population in cities by country – cities with 10 million or more inhabitants,1000,27,30,189,EG,Egypt,2005,11487
+Population,population_cities_by_country_10m_or_more,Population in cities by country – cities with 10 million or more inhabitants,1000,27,30,189,EG,Egypt,2010,12503
+Population,population_cities_by_country_10m_or_more,Population in cities by country – cities with 10 million or more inhabitants,1000,27,30,189,EG,Egypt,2015,13465
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,27,30,189,EG,Egypt,1955,49.74
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,27,30,189,EG,Egypt,1960,49.18
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,27,30,189,EG,Egypt,1965,50.55
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,27,30,189,EG,Egypt,1970,13.38
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,27,30,189,EG,Egypt,1975,13.17
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,27,30,189,EG,Egypt,1980,13.15
+Slum dwellers,urban_population_percentage_1m_5m,Percentage of urban population (by country) – 1 to 5 million inhabitants,p,27,30,189,EG,Egypt,1950,50.65
+Population,urban_population_cities,Urban population – Cities,1000,30.04996,31.249968,189,EG,Cairo,2000,10170
+Population,urban_population_cities,Urban population – Cities,1000,30.04996,31.249968,189,EG,Cairo,2010,11031
+Population,urban_population_cities,Urban population – Cities,1000,30.04996,31.249968,189,EG,Cairo,2020,13254
+Resilience,loss_of_lives_by_earthquake,Average annual loss of lives in earthquake,n,27,30,189,EG,Egypt,1980,27.19
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2048,0.55
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2049,0.55
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1950,2.46
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1951,2.46
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1952,2.46
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1953,2.46
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1954,2.46
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1955,2.4
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1956,2.4
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1957,2.4
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1958,2.4
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1959,2.4
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1960,2.51
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1961,2.51
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1962,2.51
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1963,2.51
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1964,2.51
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1965,2.18
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1966,2.18
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1967,2.18
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1968,2.18
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1969,2.18
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1970,2.14
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1971,2.14
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1972,2.14
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1973,2.14
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1974,2.14
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1975,2.17
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1976,2.17
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1977,2.17
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1978,2.17
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1979,2.17
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1980,2.38
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1981,2.38
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1982,2.38
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1983,2.38
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1984,2.38
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1985,2.28
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1986,2.28
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1987,2.28
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1988,2.28
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1989,2.28
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1990,1.91
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1991,1.91
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1992,1.91
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1993,1.91
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1994,1.91
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1995,1.85
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1996,1.85
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1997,1.85
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1998,1.85
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,1999,1.85
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2000,1.82
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2001,1.82
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2002,1.82
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2003,1.82
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2004,1.82
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2005,1.76
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2006,1.76
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2007,1.76
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2008,1.76
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2009,1.76
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2010,1.61
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2011,1.61
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2012,1.61
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2013,1.61
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2014,1.61
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2015,1.42
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2016,1.42
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2017,1.42
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2018,1.42
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2019,1.42
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2020,1.24
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2021,1.24
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2022,1.24
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2023,1.24
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2024,1.24
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2025,1.1
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2026,1.1
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2027,1.1
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2028,1.1
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2029,1.1
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2030,0.97
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2031,0.97
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2032,0.97
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2033,0.97
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2034,0.97
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2035,0.83
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2036,0.83
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2037,0.83
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2038,0.83
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2039,0.83
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2040,0.69
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2041,0.69
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2042,0.69
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2043,0.69
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2044,0.69
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2045,0.55
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2046,0.55
+Population,avg_annual_rate_change_percentage_total,Average annual rate of change of population – Total,p,27,30,189,EG,Egypt,2047,0.55
+Slum dwellers,distribution_of_solid_cooking_fuel_slum,Percent distribution of solid cooking fuel – Slum,p,27,30,189,EG,Egypt,2005,0.5
+Slum dwellers,literacy_rate_non_slum,Literacy rate by shelter deprivation – Non slum,p,27,30,189,EG,Egypt,2000,71.1
+Slum dwellers,literacy_rate_non_slum,Literacy rate by shelter deprivation – Non slum,p,27,30,189,EG,Egypt,2003,75
+Slum dwellers,literacy_rate_non_slum,Literacy rate by shelter deprivation – Non slum,p,27,30,189,EG,Egypt,2005,81.4
+Slum dwellers,literacy_rate_non_slum,Literacy rate by shelter deprivation – Non slum,p,27,30,189,EG,Egypt,1995,69.7
+Health,children_with_diarrhea_slum,Proportion of children with diarrhea in last two weeks – Slum,p,27,30,189,EG,Egypt,1992,15
+Streets,street_density_city_core,Street density (km/km²) – city core,n,31.200019,29.949996,189,EG,Alexandria,2013,14.9
+Streets,street_density_city_core,Street density (km/km²) – city core,n,30.04996,31.249968,189,EG,Cairo,2013,15.7
+Population,rural_population,Rural population,1000,27,30,189,EG,Egypt,2050,45596
+Population,rural_population,Rural population,1000,27,30,189,EG,Egypt,1950,14863
+Population,rural_population,Rural population,1000,27,30,189,EG,Egypt,1955,16090
+Population,rural_population,Rural population,1000,27,30,189,EG,Egypt,1960,17299
+Population,rural_population,Rural population,1000,27,30,189,EG,Egypt,1965,18723
+Population,rural_population,Rural population,1000,27,30,189,EG,Egypt,1970,20337
+Population,rural_population,Rural population,1000,27,30,189,EG,Egypt,1975,22152
+Population,rural_population,Rural population,1000,27,30,189,EG,Egypt,1980,24519
+Population,rural_population,Rural population,1000,27,30,189,EG,Egypt,1985,27575
+Population,rural_population,Rural population,1000,27,30,189,EG,Egypt,1990,31165
+Population,rural_population,Rural population,1000,27,30,189,EG,Egypt,1995,34683
+Population,rural_population,Rural population,1000,27,30,189,EG,Egypt,2000,38165
+Population,rural_population,Rural population,1000,27,30,189,EG,Egypt,2005,41788
+Population,rural_population,Rural population,1000,27,30,189,EG,Egypt,2007,43305
+Population,rural_population,Rural population,1000,27,30,189,EG,Egypt,2010,45496
+Population,rural_population,Rural population,1000,27,30,189,EG,Egypt,2015,48641
+Population,rural_population,Rural population,1000,27,30,189,EG,Egypt,2020,50894
+Population,rural_population,Rural population,1000,27,30,189,EG,Egypt,2025,52078
+Population,rural_population,Rural population,1000,27,30,189,EG,Egypt,2030,52120
+Population,rural_population,Rural population,1000,27,30,189,EG,Egypt,2035,51236
+Population,rural_population,Rural population,1000,27,30,189,EG,Egypt,2040,49828
+Population,rural_population,Rural population,1000,27,30,189,EG,Egypt,2045,47930
+City prosperity,cpi_productivity_index,Productivity index,p,30.04996,31.249968,189,EG,Cairo,2012,0.679
+City prosperity,cpi_productivity_index,Productivity index,p,30.04996,31.249968,189,EG,Cairo,2013,0.679
+Slum dwellers,slum_population,Slum population – Urban,1000,27,30,189,EG,Egypt,2000,7978
+Slum dwellers,slum_population,Slum population – Urban,1000,27,30,189,EG,Egypt,1995,10166
+Slum dwellers,slum_population,Slum population – Urban,1000,27,30,189,EG,Egypt,2005,5312
+Slum dwellers,slum_population,Slum population – Urban,1000,27,30,189,EG,Egypt,1990,12029
+Slum dwellers,slum_population,Slum population – Urban,1000,27,30,189,EG,Egypt,2007,5505
+Slum dwellers,literacy_rate_1_shelter_deprivation,Literacy rate by shelter deprivation – 1 Shelter deprivation,p,27,30,189,EG,Egypt,2005,64.9
+Slum dwellers,slum_proportion_living_urban,Percentage of slum population in urban area,p,27,30,189,EG,Egypt,2000,28.1
+Slum dwellers,slum_proportion_living_urban,Percentage of slum population in urban area,p,27,30,189,EG,Egypt,1995,39.2
+Slum dwellers,slum_proportion_living_urban,Percentage of slum population in urban area,p,27,30,189,EG,Egypt,2005,17.1
+Slum dwellers,slum_proportion_living_urban,Percentage of slum population in urban area,p,27,30,189,EG,Egypt,1990,50.2
+Slum dwellers,slum_proportion_living_urban,Percentage of slum population in urban area,p,27,30,189,EG,Egypt,2007,17.1
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,27,30,189,EG,Egypt,1990,67.9
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,27,30,189,EG,Egypt,1995,54.17
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,27,30,189,EG,Egypt,2000,40.43
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,27,30,189,EG,Egypt,1970,157.9
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,27,30,189,EG,Egypt,2005,32.67
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,27,30,189,EG,Egypt,2007,29.91
+Population,infant_mortality_rate,Infant Mortality rate (Deaths per 1000 live births),n,27,30,189,EG,Egypt,1980,119.62
+Slum dwellers,durable_housing_urban_population_countries,Proportion of urban population with durable housing – Countries,p,27,30,189,EG,Egypt,2000,96
+Slum dwellers,durable_housing_urban_population_countries,Proportion of urban population with durable housing – Countries,p,27,30,189,EG,Egypt,1992,94.3
+Slum dwellers,durable_housing_urban_population_countries,Proportion of urban population with durable housing – Countries,p,27,30,189,EG,Egypt,2003,97.1
+Slum dwellers,durable_housing_urban_population_countries,Proportion of urban population with durable housing – Countries,p,27,30,189,EG,Egypt,2005,98.3
+Slum dwellers,durable_housing_urban_population_countries,Proportion of urban population with durable housing – Countries,p,27,30,189,EG,Egypt,1995,94.1
+Slum dwellers,literacy_rate_urban,Literacy rate by shelter deprivation – Urban,p,27,30,189,EG,Egypt,2000,69.7
+Slum dwellers,literacy_rate_urban,Literacy rate by shelter deprivation – Urban,p,27,30,189,EG,Egypt,2003,73.7
+Slum dwellers,literacy_rate_urban,Literacy rate by shelter deprivation – Urban,p,27,30,189,EG,Egypt,2005,77.2
+Slum dwellers,literacy_rate_urban,Literacy rate by shelter deprivation – Urban,p,27,30,189,EG,Egypt,1995,65.9

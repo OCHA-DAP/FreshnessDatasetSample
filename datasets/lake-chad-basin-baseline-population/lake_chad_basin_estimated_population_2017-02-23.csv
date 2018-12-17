@@ -1,0 +1,80 @@
+Country,ReportedLocation,TotalTotal,AsOfDate
+#country+name,#adm1+name,#population,#date
+Cameroon,Adamaoua,1239726.0,2017-01-01
+Cameroon,Centre,4483380.0,2017-01-01
+Cameroon,Est,1070380.0,2017-01-01
+Cameroon,Extrême-Nord,4332531.0,2017-01-01
+Cameroon,Littoral,3693829.0,2017-01-01
+Cameroon,Nord,2652839.0,2017-01-01
+Cameroon,Nord-Ouest,2180309.0,2017-01-01
+Cameroon,Ouest,2040267.0,2017-01-01
+Cameroon,Sud,782433.0,2017-01-01
+Cameroon,Sud-Ouest,1778070.0,2017-01-01
+Chad,Barh el Ghazel,289456.0,2016-02-22
+Chad,Batha,600648.0,2016-02-22
+Chad,Borkou,98333.0,2016-02-22
+Chad,Chari-Baguirmi,589306.0,2016-02-22
+Chad,Ennedi Est,148291.0,2016-02-22
+Chad,Ennedi Ouest,49109.0,2016-02-22
+Chad,Guéra,632092.0,2016-02-22
+Chad,Hadjer-Lamis,643927.0,2016-02-22
+Chad,Kanem,410504.0,2016-02-22
+Chad,Lac,511967.0,2016-02-22
+Chad,Logone Occidental,605517.0,2016-02-22
+Chad,Logone Oriental,1067106.0,2016-02-22
+Chad,Mandoul,716924.0,2016-02-22
+Chad,Mayo-Kebbi Est,866734.0,2016-02-22
+Chad,Mayo-Kebbi Ouest,625492.0,2016-02-22
+Chad,Moyen-Chari,675115.0,2016-02-22
+Chad,Ouaddaï,834918.0,2016-02-22
+Chad,Salamat,351944.0,2016-02-22
+Chad,Sila,365701.0,2016-02-22
+Chad,Tandjilé,773893.0,2016-02-22
+Chad,Tibesti,38913.0,2016-02-22
+Chad,Ville de N'Djamena,1275760.0,2016-02-22
+Chad,Wadi Fira,558108.0,2016-02-22
+Niger,Agadez,547756.0,2016-02-22
+Niger,Diffa,669307.0,2016-02-22
+Niger,Dosso,2368651.0,2016-02-22
+Niger,Maradi,3987165.0,2016-02-22
+Niger,Niamey,1164680.0,2016-02-22
+Niger,Tahoua,3839457.0,2016-02-22
+Niger,Tillabéry,3155731.0,2016-02-22
+Niger,Zinder,4132321.0,2016-02-22
+Nigeria,Abia,3655351.0,2016-02-22
+Nigeria,Adamawa,3958471.0,2016-02-22
+Nigeria,Akwa Ibom,4827937.0,2016-02-22
+Nigeria,Anambra,5390499.0,2016-02-22
+Nigeria,Bauchi,5805099.0,2016-02-22
+Nigeria,Bayelsa,2085717.0,2016-02-22
+Nigeria,Benue,5312951.0,2016-02-22
+Nigeria,Borno,5274402.0,2016-02-22
+Nigeria,Cross River,3611947.0,2016-02-22
+Nigeria,Delta,5167679.0,2016-02-22
+Nigeria,Ebonyi,2724059.0,2016-02-22
+Nigeria,Edo,4153988.0,2016-02-22
+Nigeria,Ekiti,3054371.0,2016-02-22
+Nigeria,Enugu,4153943.0,2016-02-22
+Nigeria,Federal Capital Territory,1765992.0,2016-02-22
+Nigeria,Gombe,2964482.0,2016-02-22
+Nigeria,Imo,4882383.0,2016-02-22
+Nigeria,Jigawa,5489807.0,2016-02-22
+Nigeria,Kaduna,7728216.0,2016-02-22
+Nigeria,Kano,12114646.0,2016-02-22
+Nigeria,Katsina,7304314.0,2016-02-22
+Nigeria,Kebbi,4065201.0,2016-02-22
+Nigeria,Kogi,4167676.0,2016-02-22
+Nigeria,Kwara,3025343.0,2016-02-22
+Nigeria,Lagos,12452097.0,2016-02-22
+Nigeria,Nassarawa,2327195.0,2016-02-22
+Nigeria,Niger,4958665.0,2016-02-22
+Nigeria,Ogun,4858969.0,2016-02-22
+Nigeria,Ondo,4397180.0,2016-02-22
+Nigeria,Osun,4451672.0,2016-02-22
+Nigeria,Oyo,7266440.0,2016-02-22
+Nigeria,Plateau,4026020.0,2016-02-22
+Nigeria,Rivers,6489120.0,2016-02-22
+Nigeria,Sokoto,4676481.0,2016-02-22
+Nigeria,Taraba,2822519.0,2016-02-22
+Nigeria,Yobe,2928872.0,2016-02-22
+Nigeria,Zamfara,4085675.0,2016-02-22

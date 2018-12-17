@@ -1,0 +1,476 @@
+Organisation,Org Type,Sector,Department,Department Pcode
+#org,#org+type,#sector,#adm1+name,#adm1+code
+WFP,UN,Logistic ,San Salvador,SV06
+WFP,UN,Emergency Telecomunications,San Salvador,SV06
+WFP,UN,Food Security,San Salvador,SV06
+WFP,UN,Food Security,San Salvador,SV06
+WFP,UN,Food Security,Ahuachapan,SV01
+WFP,UN,Food Security,Santa Ana,SV02
+WFP,UN,Food Security,Sonsonate,SV03
+WFP,UN,Food Security,Chalatenango,SV04
+WFP,UN,Food Security,La Libertad,SV05
+WFP,UN,Food Security,Cuscatlan,SV07
+WFP,UN,Food Security,La Paz,SV08
+WFP,UN,Food Security,Cabañas,SV09
+WFP,UN,Food Security,San Vicente,SV10
+WFP,UN,Food Security,Usulutan,SV11
+WFP,UN,Food Security,San Miguel,SV12
+WFP,UN,Food Security,Morazan,SV13
+UNHCR,UN,Protection,San Salvador,SV06
+UNHCR,UN,Protection,Santa Ana,SV02
+UNHCR,UN,Protection,San Miguel,SV12
+UNHCR,UN,Protection,Usulutan,SV11
+FAO,UN,Food Security,Santa Ana,SV02
+FAO,UN,Food Security,Usulutan,SV11
+FAO,UN,Food Security,San Miguel,SV12
+FAO,UN,Food Security,Morazan,SV13
+FAO,UN,Food Security,Ahuachapan,SV01
+IOM,UN,Education,Ahuachapan,SV01
+IOM,UN,Education,Santa Ana,SV02
+IOM,UN,Education,Sonsonate,SV03
+IOM,UN,Education,Chalatenango,SV04
+IOM,UN,Education,La Libertad,SV05
+IOM,UN,Education,San Salvador,SV06
+IOM,UN,Education,Cuscatlan,SV07
+IOM,UN,Education,La Paz,SV08
+IOM,UN,Education,Cabañas,SV09
+IOM,UN,Education,San Vicente,SV10
+IOM,UN,Education,Usulutan,SV11
+IOM,UN,Education,San Miguel,SV12
+IOM,UN,Education,Morazan,SV13
+IOM,UN,Education,La Union,SV14
+UNFPA,UN,Health ,Ahuachapan,SV01
+UNFPA,UN,Health ,Santa Ana,SV02
+UNFPA,UN,Health ,Sonsonate,SV03
+UNFPA,UN,Health ,Chalatenango,SV04
+UNFPA,UN,Health ,La Libertad,SV05
+UNFPA,UN,Health ,San Salvador,SV06
+UNFPA,UN,Health ,Cuscatlan,SV07
+UNFPA,UN,Health ,La Paz,SV08
+UNFPA,UN,Health ,Cabañas,SV09
+UNFPA,UN,Health ,San Vicente,SV10
+UNFPA,UN,Health ,Usulutan,SV11
+UNFPA,UN,Health ,San Miguel,SV12
+UNFPA,UN,Health ,Morazan,SV13
+UNFPA,UN,Health ,La Union,SV14
+UNAIDS,UN,Health ,San Salvador,SV06
+UNAIDS,UN,Protection,San Salvador,SV06
+UNAIDS,UN,Shelter/NFI,San Salvador,SV06
+AECID,Donors,Food Security,San Salvador,SV06
+AECID,Donors,Health ,San Salvador,SV06
+AECID,Donors,"Water, Sanitation and Hygiene",San Salvador,SV06
+AECID,Donors,Shelter/NFI,San Salvador,SV06
+Spanish Red Cross (CRE),Movements of the Red Cross,Food Security,San Salvador,SV06
+Spanish Red Cross (CRE),Movements of the Red Cross,Health ,San Salvador,SV06
+Spanish Red Cross (CRE),Movements of the Red Cross,Shelter/NFI,San Salvador,SV06
+Spanish Red Cross (CRE),Movements of the Red Cross,"Water, Sanitation and Hygiene",San Salvador,SV06
+Spanish Red Cross (CRE),Movements of the Red Cross,Protection,San Salvador,SV06
+Spanish Red Cross (CRE),Movements of the Red Cross,Logistic ,San Salvador,SV06
+Spanish Red Cross (CRE),Movements of the Red Cross,Early Recovery,San Salvador,SV06
+OXFAM,NGO,Food Security,San Miguel,SV12
+OXFAM,NGO,Food Security,Chalatenango,SV04
+OXFAM,NGO,Food Security,La Libertad,SV05
+OXFAM,NGO,Food Security,San Salvador,SV06
+OXFAM,NGO,Food Security,Ahuachapan,SV01
+OXFAM,NGO,Food Security,Morazan,SV13
+OXFAM,NGO,"Water, Sanitation and Hygiene",San Miguel,SV12
+OXFAM,NGO,"Water, Sanitation and Hygiene",Chalatenango,SV04
+OXFAM,NGO,"Water, Sanitation and Hygiene",La Libertad,SV05
+OXFAM,NGO,"Water, Sanitation and Hygiene",San Salvador,SV06
+OXFAM,NGO,"Water, Sanitation and Hygiene",Ahuachapan,SV01
+OXFAM,NGO,"Water, Sanitation and Hygiene",Morazan,SV13
+OXFAM,NGO,Protection,Ahuachapan,SV01
+OXFAM,NGO,Protection,Santa Ana,SV02
+OXFAM,NGO,Protection,Sonsonate,SV03
+OXFAM,NGO,Protection,Chalatenango,SV04
+OXFAM,NGO,Protection,La Libertad,SV05
+OXFAM,NGO,Protection,San Salvador,SV06
+OXFAM,NGO,Protection,Cuscatlan,SV07
+OXFAM,NGO,Protection,La Paz,SV08
+OXFAM,NGO,Protection,Cabañas,SV09
+OXFAM,NGO,Protection,San Vicente,SV10
+OXFAM,NGO,Protection,Usulutan,SV11
+OXFAM,NGO,Protection,San Miguel,SV12
+OXFAM,NGO,Protection,Morazan,SV13
+OXFAM,NGO,Protection,La Union,SV14
+PLAN INTERNATIONAL,NGO,Nutrition ,La Libertad,SV05
+PLAN INTERNATIONAL,NGO,Nutrition ,San Salvador,SV06
+PLAN INTERNATIONAL,NGO,Nutrition ,Chalatenango,SV04
+PLAN INTERNATIONAL,NGO,Nutrition ,Cuscatlan,SV07
+PLAN INTERNATIONAL,NGO,Nutrition ,Cabañas,SV09
+PLAN INTERNATIONAL,NGO,Education,La Libertad,SV05
+PLAN INTERNATIONAL,NGO,Education,San Salvador,SV06
+PLAN INTERNATIONAL,NGO,Education,Chalatenango,SV04
+PLAN INTERNATIONAL,NGO,Education,Cuscatlan,SV07
+PLAN INTERNATIONAL,NGO,Education,Cabañas,SV09
+PLAN INTERNATIONAL,NGO,Food Security,La Libertad,SV05
+PLAN INTERNATIONAL,NGO,Food Security,San Salvador,SV06
+PLAN INTERNATIONAL,NGO,Food Security,Chalatenango,SV04
+PLAN INTERNATIONAL,NGO,Food Security,Cuscatlan,SV07
+PLAN INTERNATIONAL,NGO,Food Security,Cabañas,SV09
+PLAN INTERNATIONAL,NGO,Protection,La Libertad,SV05
+PLAN INTERNATIONAL,NGO,Protection,San Salvador,SV06
+PLAN INTERNATIONAL,NGO,Protection,Chalatenango,SV04
+PLAN INTERNATIONAL,NGO,Protection,Cuscatlan,SV07
+PLAN INTERNATIONAL,NGO,Protection,Cabañas,SV09
+PROVIDA FOUNDATION,NGO,"Water, Sanitation and Hygiene",San Salvador,SV06
+PLAN INTERNATIONAL,NGO,"Water, Sanitation and Hygiene",San Salvador,SV06
+PLAN INTERNATIONAL,NGO,Health ,La Libertad,SV05
+PLAN INTERNATIONAL,NGO,Health ,San Salvador,SV06
+PLAN INTERNATIONAL,NGO,Health ,Chalatenango,SV04
+PLAN INTERNATIONAL,NGO,Health ,Cuscatlan,SV07
+PLAN INTERNATIONAL,NGO,Health ,Cabañas,SV09
+HABITAT FOR HUMANITY ,NGO,Shelter/NFI,Ahuachapan,SV01
+HABITAT FOR HUMANITY ,NGO,Shelter/NFI,Santa Ana,SV02
+HABITAT FOR HUMANITY ,NGO,Shelter/NFI,Sonsonate,SV03
+HABITAT FOR HUMANITY ,NGO,Shelter/NFI,Chalatenango,SV04
+HABITAT FOR HUMANITY ,NGO,Shelter/NFI,La Libertad,SV05
+HABITAT FOR HUMANITY ,NGO,Shelter/NFI,San Salvador,SV06
+HABITAT FOR HUMANITY ,NGO,Shelter/NFI,Cuscatlan,SV07
+HABITAT FOR HUMANITY ,NGO,Shelter/NFI,La Paz,SV08
+HABITAT FOR HUMANITY ,NGO,Shelter/NFI,Cabañas,SV09
+HABITAT FOR HUMANITY ,NGO,Shelter/NFI,San Vicente,SV10
+HABITAT FOR HUMANITY ,NGO,Shelter/NFI,Usulutan,SV11
+HABITAT FOR HUMANITY ,NGO,Shelter/NFI,San Miguel,SV12
+HABITAT FOR HUMANITY ,NGO,Shelter/NFI,Morazan,SV13
+HABITAT FOR HUMANITY ,NGO,Shelter/NFI,La Union,SV14
+HABITAT FOR HUMANITY ,NGO,Logistic ,Ahuachapan,SV01
+HABITAT FOR HUMANITY ,NGO,Logistic ,Santa Ana,SV02
+HABITAT FOR HUMANITY ,NGO,Logistic ,Sonsonate,SV03
+HABITAT FOR HUMANITY ,NGO,Logistic ,Chalatenango,SV04
+HABITAT FOR HUMANITY ,NGO,Logistic ,La Libertad,SV05
+HABITAT FOR HUMANITY ,NGO,Logistic ,San Salvador,SV06
+HABITAT FOR HUMANITY ,NGO,Logistic ,Cuscatlan,SV07
+HABITAT FOR HUMANITY ,NGO,Logistic ,La Paz,SV08
+HABITAT FOR HUMANITY ,NGO,Logistic ,Cabañas,SV09
+HABITAT FOR HUMANITY ,NGO,Logistic ,San Vicente,SV10
+HABITAT FOR HUMANITY ,NGO,Logistic ,Usulutan,SV11
+HABITAT FOR HUMANITY ,NGO,Logistic ,San Miguel,SV12
+HABITAT FOR HUMANITY ,NGO,Logistic ,Morazan,SV13
+HABITAT FOR HUMANITY ,NGO,Logistic ,La Union,SV14
+HABITAT FOR HUMANITY ,NGO,Camp Coordination and Camp Management,Ahuachapan,SV01
+HABITAT FOR HUMANITY ,NGO,Camp Coordination and Camp Management,Santa Ana,SV02
+HABITAT FOR HUMANITY ,NGO,Camp Coordination and Camp Management,Sonsonate,SV03
+HABITAT FOR HUMANITY ,NGO,Camp Coordination and Camp Management,Chalatenango,SV04
+HABITAT FOR HUMANITY ,NGO,Camp Coordination and Camp Management,La Libertad,SV05
+HABITAT FOR HUMANITY ,NGO,Camp Coordination and Camp Management,San Salvador,SV06
+HABITAT FOR HUMANITY ,NGO,Camp Coordination and Camp Management,Cuscatlan,SV07
+HABITAT FOR HUMANITY ,NGO,Camp Coordination and Camp Management,La Paz,SV08
+HABITAT FOR HUMANITY ,NGO,Camp Coordination and Camp Management,Cabañas,SV09
+HABITAT FOR HUMANITY ,NGO,Camp Coordination and Camp Management,San Vicente,SV10
+HABITAT FOR HUMANITY ,NGO,Camp Coordination and Camp Management,Usulutan,SV11
+HABITAT FOR HUMANITY ,NGO,Camp Coordination and Camp Management,San Miguel,SV12
+HABITAT FOR HUMANITY ,NGO,Camp Coordination and Camp Management,Morazan,SV13
+HABITAT FOR HUMANITY ,NGO,Camp Coordination and Camp Management,La Union,SV14
+HABITAT FOR HUMANITY ,NGO,Early Recovery,Ahuachapan,SV01
+HABITAT FOR HUMANITY ,NGO,Early Recovery,Santa Ana,SV02
+HABITAT FOR HUMANITY ,NGO,Early Recovery,Sonsonate,SV03
+HABITAT FOR HUMANITY ,NGO,Early Recovery,Chalatenango,SV04
+HABITAT FOR HUMANITY ,NGO,Early Recovery,La Libertad,SV05
+HABITAT FOR HUMANITY ,NGO,Early Recovery,San Salvador,SV06
+HABITAT FOR HUMANITY ,NGO,Early Recovery,Cuscatlan,SV07
+HABITAT FOR HUMANITY ,NGO,Early Recovery,La Paz,SV08
+HABITAT FOR HUMANITY ,NGO,Early Recovery,Cabañas,SV09
+HABITAT FOR HUMANITY ,NGO,Early Recovery,San Vicente,SV10
+HABITAT FOR HUMANITY ,NGO,Early Recovery,Usulutan,SV11
+HABITAT FOR HUMANITY ,NGO,Early Recovery,San Miguel,SV12
+HABITAT FOR HUMANITY ,NGO,Early Recovery,Morazan,SV13
+HABITAT FOR HUMANITY ,NGO,Early Recovery,La Union,SV14
+UNDP,UN,Early Recovery,San Salvador,SV06
+CATHOLIC RELIEF SERVICE,NGO,Food Security,Ahuachapan,SV01
+CATHOLIC RELIEF SERVICE,NGO,Food Security,Santa Ana,SV02
+CATHOLIC RELIEF SERVICE,NGO,Food Security,Sonsonate,SV03
+CATHOLIC RELIEF SERVICE,NGO,Food Security,Chalatenango,SV04
+CATHOLIC RELIEF SERVICE,NGO,Food Security,La Libertad,SV05
+CATHOLIC RELIEF SERVICE,NGO,Food Security,San Salvador,SV06
+CATHOLIC RELIEF SERVICE,NGO,Food Security,Cuscatlan,SV07
+CATHOLIC RELIEF SERVICE,NGO,Food Security,La Paz,SV08
+CATHOLIC RELIEF SERVICE,NGO,Food Security,Cabañas,SV09
+CATHOLIC RELIEF SERVICE,NGO,Food Security,San Vicente,SV10
+CATHOLIC RELIEF SERVICE,NGO,Food Security,Usulutan,SV11
+CATHOLIC RELIEF SERVICE,NGO,Food Security,San Miguel,SV12
+CATHOLIC RELIEF SERVICE,NGO,Food Security,Morazan,SV13
+CATHOLIC RELIEF SERVICE,NGO,Food Security,La Union,SV14
+LWR,NGO,Food Security,Ahuachapan,SV01
+LWR,NGO,Food Security,Santa Ana,SV02
+LWR,NGO,Food Security,Sonsonate,SV03
+LWR,NGO,Food Security,Chalatenango,SV04
+LWR,NGO,Food Security,La Libertad,SV05
+LWR,NGO,Food Security,San Salvador,SV06
+LWR,NGO,Food Security,Cuscatlan,SV07
+LWR,NGO,Food Security,La Paz,SV08
+LWR,NGO,Food Security,Cabañas,SV09
+LWR,NGO,Food Security,San Vicente,SV10
+LWR,NGO,Food Security,Usulutan,SV11
+LWR,NGO,Food Security,San Miguel,SV12
+LWR,NGO,Food Security,Morazan,SV13
+LWR,NGO,Food Security,La Union,SV14
+ACUGOLFO ORGANIZATION,NGO,Food Security,Ahuachapan,SV01
+ACUGOLFO ORGANIZATION,NGO,Food Security,Santa Ana,SV02
+ACUGOLFO ORGANIZATION,NGO,Food Security,Sonsonate,SV03
+ACUGOLFO ORGANIZATION,NGO,Food Security,Chalatenango,SV04
+ACUGOLFO ORGANIZATION,NGO,Food Security,La Libertad,SV05
+ACUGOLFO ORGANIZATION,NGO,Food Security,San Salvador,SV06
+ACUGOLFO ORGANIZATION,NGO,Food Security,Cuscatlan,SV07
+ACUGOLFO ORGANIZATION,NGO,Food Security,La Paz,SV08
+ACUGOLFO ORGANIZATION,NGO,Food Security,Cabañas,SV09
+ACUGOLFO ORGANIZATION,NGO,Food Security,San Vicente,SV10
+ACUGOLFO ORGANIZATION,NGO,Food Security,Usulutan,SV11
+ACUGOLFO ORGANIZATION,NGO,Food Security,San Miguel,SV12
+ACUGOLFO ORGANIZATION,NGO,Food Security,Morazan,SV13
+ACUGOLFO ORGANIZATION,NGO,Food Security,La Union,SV14
+CATHOLIC RELIEF SERVICE,NGO,"Water, Sanitation and Hygiene",Santa Ana,SV02
+CATHOLIC RELIEF SERVICE,NGO,"Water, Sanitation and Hygiene",Sonsonate,SV03
+CATHOLIC RELIEF SERVICE,NGO,"Water, Sanitation and Hygiene",Morazan,SV13
+ACUGOLFO ORGANIZATION,NGO,"Water, Sanitation and Hygiene",Santa Ana,SV02
+ACUGOLFO ORGANIZATION,NGO,"Water, Sanitation and Hygiene",Sonsonate,SV03
+ACUGOLFO ORGANIZATION,NGO,"Water, Sanitation and Hygiene",Morazan,SV13
+Caritas Santa Ana,NGO,"Water, Sanitation and Hygiene",Santa Ana,SV02
+Caritas Santa Ana,NGO,"Water, Sanitation and Hygiene",Sonsonate,SV03
+Caritas Santa Ana,NGO,"Water, Sanitation and Hygiene",Morazan,SV13
+Mancomunidad La Montañona,NGO,Food Security,Ahuachapan,SV01
+Mancomunidad La Montañona,NGO,Food Security,Santa Ana,SV02
+Mancomunidad La Montañona,NGO,Food Security,Sonsonate,SV03
+Mancomunidad La Montañona,NGO,Food Security,Chalatenango,SV04
+Mancomunidad La Montañona,NGO,Food Security,La Libertad,SV05
+Mancomunidad La Montañona,NGO,Food Security,San Salvador,SV06
+Mancomunidad La Montañona,NGO,Food Security,Cuscatlan,SV07
+Mancomunidad La Montañona,NGO,Food Security,La Paz,SV08
+Mancomunidad La Montañona,NGO,Food Security,Cabañas,SV09
+Mancomunidad La Montañona,NGO,Food Security,San Vicente,SV10
+Mancomunidad La Montañona,NGO,Food Security,Usulutan,SV11
+Mancomunidad La Montañona,NGO,Food Security,San Miguel,SV12
+Mancomunidad La Montañona,NGO,Food Security,Morazan,SV13
+Mancomunidad La Montañona,NGO,Food Security,La Union,SV14
+CLUSA El Salvador,NGO,Food Security,Ahuachapan,SV01
+CLUSA El Salvador,NGO,Food Security,Santa Ana,SV02
+CLUSA El Salvador,NGO,Food Security,Sonsonate,SV03
+CLUSA El Salvador,NGO,Food Security,Chalatenango,SV04
+CLUSA El Salvador,NGO,Food Security,La Libertad,SV05
+CLUSA El Salvador,NGO,Food Security,San Salvador,SV06
+CLUSA El Salvador,NGO,Food Security,Cuscatlan,SV07
+CLUSA El Salvador,NGO,Food Security,La Paz,SV08
+CLUSA El Salvador,NGO,Food Security,Cabañas,SV09
+CLUSA El Salvador,NGO,Food Security,San Vicente,SV10
+CLUSA El Salvador,NGO,Food Security,Usulutan,SV11
+CLUSA El Salvador,NGO,Food Security,San Miguel,SV12
+CLUSA El Salvador,NGO,Food Security,Morazan,SV13
+CLUSA El Salvador,NGO,Food Security,La Union,SV14
+OCHA,UN,Shelter/NFI,San Salvador,SV06
+OCHA,UN,Education,San Salvador,SV06
+IRC,NGO,Protection,San Salvador,SV06
+IRC,NGO,Logistic ,San Salvador,SV06
+ACT ALLIANCE,NGO,Education,Chalatenango,SV04
+ACT ALLIANCE,NGO,Food Security,Santa Ana,SV02
+ACT ALLIANCE,NGO,Food Security,San Salvador,SV06
+ACT ALLIANCE,NGO,Food Security,Sonsonate,SV03
+ACT ALLIANCE,NGO,Shelter/NFI,San Miguel,SV12
+Salvadoran Lutheran Synod,NGO,Shelter/NFI,San Miguel,SV12
+ACT ALLIANCE,NGO,"Water, Sanitation and Hygiene",La Paz,SV08
+ALFALIT,NGO,"Water, Sanitation and Hygiene",La Paz,SV08
+Christian Aid,NGO,"Water, Sanitation and Hygiene",La Paz,SV08
+ACT ALLIANCE,NGO,"Water, Sanitation and Hygiene",Usulutan,SV11
+ALFALIT,NGO,"Water, Sanitation and Hygiene",Usulutan,SV11
+Christian Aid,NGO,"Water, Sanitation and Hygiene",Usulutan,SV11
+ACT ALLIANCE,NGO,Logistic ,Cuscatlan,SV07
+ACT ALLIANCE,NGO,Logistic ,Usulutan,SV11
+ACT ALLIANCE,NGO,Logistic ,San Miguel,SV12
+ACT ALLIANCE,NGO,Logistic ,Morazan,SV13
+ACT ALLIANCE,NGO,Logistic ,La Union,SV14
+ACT ALLIANCE,NGO,Early Recovery,San Salvador,SV06
+ALFALIT,NGO,Early Recovery,San Salvador,SV06
+Salvadoran Lutheran Synod,NGO,Early Recovery,San Salvador,SV06
+Solidar Suisse,NGO,Education,La Paz,SV08
+Solidar Suisse,NGO,Education,San Vicente,SV10
+Solidar Suisse,NGO,Education,San Salvador,SV06
+Solidar Suisse,NGO,Food Security,Chalatenango,SV04
+Solidar Suisse,NGO,Food Security,La Paz,SV08
+Solidar Suisse,NGO,Food Security,San Vicente,SV10
+Solidar Suisse,NGO,Food Security,Sonsonate,SV03
+Solidar Suisse,NGO,Shelter/NFI,La Paz,SV08
+Solidar Suisse,NGO,Shelter/NFI,San Vicente,SV10
+Solidar Suisse,NGO,Shelter/NFI,Cabañas,SV09
+Solidar Suisse,NGO,Shelter/NFI,Chalatenango,SV04
+Solidar Suisse,NGO,"Water, Sanitation and Hygiene",La Paz,SV08
+Solidar Suisse,NGO,"Water, Sanitation and Hygiene",Chalatenango,SV04
+Solidar Suisse,NGO,"Water, Sanitation and Hygiene",Cabañas,SV09
+Solidar Suisse,NGO,"Water, Sanitation and Hygiene",San Vicente,SV10
+Solidar Suisse,NGO,"Water, Sanitation and Hygiene",San Salvador,SV06
+Solidar Suisse,NGO,Protection,La Paz,SV08
+Solidar Suisse,NGO,Protection,San Vicente,SV10
+Solidar Suisse,NGO,Protection,Cabañas,SV09
+Solidar Suisse,NGO,Protection,Chalatenango,SV04
+Solidar Suisse,NGO,Protection,San Salvador,SV06
+Solidar Suisse,NGO,Early Recovery,San Salvador,SV06
+Solidar Suisse,NGO,Early Recovery,La Paz,SV08
+Solidar Suisse,NGO,Early Recovery,San Vicente,SV10
+PAHO/OMS,UN,Nutrition ,Chalatenango,SV04
+INCAP,REGIONAL SYSTEM (SICA},Nutrition ,Chalatenango,SV04
+PAHO/OMS,UN,Food Security,Ahuachapan,SV01
+PAHO/OMS,UN,Food Security,Santa Ana,SV02
+PAHO/OMS,UN,Food Security,Sonsonate,SV03
+PAHO/OMS,UN,Food Security,Chalatenango,SV04
+PAHO/OMS,UN,Food Security,La Libertad,SV05
+PAHO/OMS,UN,Food Security,San Salvador,SV06
+PAHO/OMS,UN,Food Security,Cuscatlan,SV07
+PAHO/OMS,UN,Food Security,La Paz,SV08
+PAHO/OMS,UN,Food Security,Cabañas,SV09
+PAHO/OMS,UN,Food Security,San Vicente,SV10
+PAHO/OMS,UN,Food Security,Usulutan,SV11
+PAHO/OMS,UN,Food Security,San Miguel,SV12
+PAHO/OMS,UN,Food Security,Morazan,SV13
+PAHO/OMS,UN,Food Security,La Union,SV14
+PAHO/OMS,UN,Health ,Ahuachapan,SV01
+PAHO/OMS,UN,Health ,Santa Ana,SV02
+PAHO/OMS,UN,Health ,Sonsonate,SV03
+PAHO/OMS,UN,Health ,Chalatenango,SV04
+PAHO/OMS,UN,Health ,La Libertad,SV05
+PAHO/OMS,UN,Health ,San Salvador,SV06
+PAHO/OMS,UN,Health ,Cuscatlan,SV07
+PAHO/OMS,UN,Health ,La Paz,SV08
+PAHO/OMS,UN,Health ,Cabañas,SV09
+PAHO/OMS,UN,Health ,San Vicente,SV10
+PAHO/OMS,UN,Health ,Usulutan,SV11
+PAHO/OMS,UN,Health ,San Miguel,SV12
+PAHO/OMS,UN,Health ,Morazan,SV13
+PAHO/OMS,UN,Health ,La Union,SV14
+PAHO/OMS,UN,"Water, Sanitation and Hygiene",Ahuachapan,SV01
+PAHO/OMS,UN,"Water, Sanitation and Hygiene",Santa Ana,SV02
+PAHO/OMS,UN,"Water, Sanitation and Hygiene",Sonsonate,SV03
+PAHO/OMS,UN,"Water, Sanitation and Hygiene",Chalatenango,SV04
+PAHO/OMS,UN,"Water, Sanitation and Hygiene",La Libertad,SV05
+PAHO/OMS,UN,"Water, Sanitation and Hygiene",San Salvador,SV06
+PAHO/OMS,UN,"Water, Sanitation and Hygiene",Cuscatlan,SV07
+PAHO/OMS,UN,"Water, Sanitation and Hygiene",La Paz,SV08
+PAHO/OMS,UN,"Water, Sanitation and Hygiene",Cabañas,SV09
+PAHO/OMS,UN,"Water, Sanitation and Hygiene",San Vicente,SV10
+PAHO/OMS,UN,"Water, Sanitation and Hygiene",Usulutan,SV11
+PAHO/OMS,UN,"Water, Sanitation and Hygiene",San Miguel,SV12
+PAHO/OMS,UN,"Water, Sanitation and Hygiene",Morazan,SV13
+PAHO/OMS,UN,"Water, Sanitation and Hygiene",La Union,SV14
+UNODC,UN,Education,San Salvador,SV06
+UNODC,UN,Health ,San Salvador,SV06
+UNODC,UN,Shelter/NFI,San Salvador,SV06
+UNODC,UN,Emergency Telecomunications,San Salvador,SV06
+UNODC,UN,Logistic ,San Salvador,SV06
+UNICEF,UN,Nutrition ,San Salvador,SV06
+UNICEF,UN,Education,Ahuachapan,SV01
+UNICEF,UN,Education,Cabañas,SV09
+UNICEF,UN,Education,Cuscatlan,SV07
+UNICEF,UN,Education,La Libertad,SV05
+UNICEF,UN,Education,La Paz,SV08
+UNICEF,UN,Education,La Union,SV14
+UNICEF,UN,Education,San Miguel,SV12
+UNICEF,UN,Education,San Salvador,SV06
+UNICEF,UN,Health ,Cabañas,SV09
+UNICEF,UN,Health ,Chalatenango,SV04
+UNICEF,UN,Health ,Cuscatlan,SV07
+UNICEF,UN,Health ,San Salvador,SV06
+UNICEF,UN,"Water, Sanitation and Hygiene",Ahuachapan,SV01
+UNICEF,UN,"Water, Sanitation and Hygiene",Santa Ana,SV02
+UNICEF,UN,"Water, Sanitation and Hygiene",Sonsonate,SV03
+UNICEF,UN,"Water, Sanitation and Hygiene",Chalatenango,SV04
+UNICEF,UN,"Water, Sanitation and Hygiene",La Libertad,SV05
+UNICEF,UN,"Water, Sanitation and Hygiene",San Salvador,SV06
+UNICEF,UN,"Water, Sanitation and Hygiene",Cuscatlan,SV07
+UNICEF,UN,"Water, Sanitation and Hygiene",La Paz,SV08
+UNICEF,UN,"Water, Sanitation and Hygiene",Cabañas,SV09
+UNICEF,UN,"Water, Sanitation and Hygiene",San Vicente,SV10
+UNICEF,UN,"Water, Sanitation and Hygiene",Usulutan,SV11
+UNICEF,UN,"Water, Sanitation and Hygiene",San Miguel,SV12
+UNICEF,UN,"Water, Sanitation and Hygiene",Morazan,SV13
+UNICEF,UN,"Water, Sanitation and Hygiene",La Union,SV14
+UNICEF,UN,Protection,La Libertad,SV05
+UNICEF,UN,Protection,San Salvador,SV06
+SAVE THE CHILDREN,NGO,Education,Sonsonate,SV03
+SAVE THE CHILDREN,NGO,Education,La Paz,SV08
+SAVE THE CHILDREN,NGO,Education,Ahuachapan,SV01
+SAVE THE CHILDREN,NGO,Education,San Salvador,SV06
+DON BOSCO UNIVERSITY,ACADEMY,Education,Sonsonate,SV03
+DON BOSCO UNIVERSITY,ACADEMY,Education,La Paz,SV08
+DON BOSCO UNIVERSITY,ACADEMY,Education,Ahuachapan,SV01
+DON BOSCO UNIVERSITY,ACADEMY,Education,San Salvador,SV06
+SAVE THE CHILDREN,NGO,Food Security,Sonsonate,SV03
+SAVE THE CHILDREN,NGO,Food Security,La Paz,SV08
+SAVE THE CHILDREN,NGO,Food Security,Ahuachapan,SV01
+SAVE THE CHILDREN,NGO,Food Security,San Salvador,SV06
+SAVE THE CHILDREN,NGO,Health ,Ahuachapan,SV01
+SAVE THE CHILDREN,NGO,Health ,Sonsonate,SV03
+SAVE THE CHILDREN,NGO,Health ,San Salvador,SV06
+SAVE THE CHILDREN,NGO,Health ,Cabañas,SV09
+SAVE THE CHILDREN,NGO,Health ,San Miguel,SV12
+SAVE THE CHILDREN,NGO,Health ,Usulutan,SV11
+SAVE THE CHILDREN,NGO,Shelter/NFI,San Salvador,SV06
+SAVE THE CHILDREN,NGO,"Water, Sanitation and Hygiene",Sonsonate,SV03
+SAVE THE CHILDREN,NGO,"Water, Sanitation and Hygiene",Ahuachapan,SV01
+SAVE THE CHILDREN,NGO,"Water, Sanitation and Hygiene",La Paz,SV08
+SAVE THE CHILDREN,NGO,Protection,Sonsonate,SV03
+SAVE THE CHILDREN,NGO,Protection,Ahuachapan,SV01
+SAVE THE CHILDREN,NGO,Protection,La Paz,SV08
+SAVE THE CHILDREN,NGO,Protection,Santa Ana,SV02
+SAVE THE CHILDREN,NGO,Protection,San Miguel,SV12
+SAVE THE CHILDREN,NGO,Protection,San Salvador,SV06
+QUETZALCOATL FOUNDATION,NGO,Protection,Sonsonate,SV03
+QUETZALCOATL,NGO,Protection,Ahuachapan,SV01
+QUETZALCOATL,NGO,Protection,La Paz,SV08
+QUETZALCOATL,NGO,Protection,San Miguel,SV12
+QUETZALCOATL,NGO,Protection,Santa Ana,SV02
+QUETZALCOATL,NGO,Protection,San Salvador,SV06
+SAVE THE CHILDREN,NGO,Emergency Telecomunications,San Salvador,SV06
+SAVE THE CHILDREN,NGO,Logistic ,San Salvador,SV06
+SAVE THE CHILDREN,NGO,Early Recovery,San Salvador,SV06
+CONCAVIS,NGO,Protection,San Salvador,SV06
+SCALABRINIANOS,NGO,Protection,San Salvador,SV06
+ICRC,Movements of the Red Cross,Protection,San Salvador,SV06
+CARITAS,NGO,Protection,San Salvador,SV06
+IDHUCA,ACADEMY,Protection,San Salvador,SV06
+CRISTOSAL FOUNDATION ,NGO,Protection,San Salvador,SV06
+WVI,NGO,Education,,SV01
+WVI,NGO,Education,Sonsonate,SV03
+WVI,NGO,Education,San Salvador,SV06
+WVI,NGO,Education,San Vicente,SV10
+WVI,NGO,Education,Usulutan,SV11
+WVI,NGO,Education,San Miguel,SV12
+WVI,NGO,Education,Morazan,SV13
+WVI,NGO,Food Security,Ahuachapan,SV01
+WVI,NGO,Food Security,Sonsonate,SV03
+WVI,NGO,Food Security,San Salvador,SV06
+WVI,NGO,Food Security,San Vicente,SV10
+WVI,NGO,Food Security,Usulutan,SV11
+WVI,NGO,Food Security,San Miguel,SV12
+WVI,NGO,Food Security,Morazan,SV13
+WVI,NGO,Health ,Ahuachapan,SV01
+WVI,NGO,Health ,Sonsonate,SV03
+WVI,NGO,Health ,San Salvador,SV06
+WVI,NGO,Health ,San Vicente,SV10
+WVI,NGO,Health ,Usulutan,SV11
+WVI,NGO,Health ,San Miguel,SV12
+WVI,NGO,Health ,Morazan,SV13
+WVI,NGO,Shelter/NFI,Ahuachapan,SV01
+WVI,NGO,Shelter/NFI,Sonsonate,SV03
+WVI,NGO,Shelter/NFI,San Salvador,SV06
+WVI,NGO,Shelter/NFI,San Vicente,SV10
+WVI,NGO,Shelter/NFI,Usulutan,SV11
+WVI,NGO,Shelter/NFI,San Miguel,SV12
+WVI,NGO,Shelter/NFI,Morazan,SV13
+WVI,NGO,"Water, Sanitation and Hygiene",Ahuachapan,SV01
+WVI,NGO,"Water, Sanitation and Hygiene",Sonsonate,SV03
+WVI,NGO,"Water, Sanitation and Hygiene",San Salvador,SV06
+WVI,NGO,"Water, Sanitation and Hygiene",San Vicente,SV10
+WVI,NGO,"Water, Sanitation and Hygiene",Usulutan,SV11
+WVI,NGO,"Water, Sanitation and Hygiene",San Miguel,SV12
+WVI,NGO,"Water, Sanitation and Hygiene",Morazan,SV13
+WVI,NGO,Protection,Ahuachapan,SV01
+WVI,NGO,Protection,Sonsonate,SV03
+WVI,NGO,Protection,San Salvador,SV06
+WVI,NGO,Protection,San Vicente,SV10
+WVI,NGO,Protection,Usulutan,SV11
+WVI,NGO,Protection,San Miguel,SV12
+WVI,NGO,Protection,Morazan,SV13
+WVI,NGO,Logistic,Ahuachapan,SV01
+WVI,NGO,Logistic,Sonsonate,SV03
+WVI,NGO,Logistic,San Salvador,SV06
+WVI,NGO,Logistic,San Vicente,SV10
+WVI,NGO,Logistic,Usulutan,SV11
+WVI,NGO,Logistic,San Miguel,SV12
+WVI,NGO,Logistic,Morazan,SV13

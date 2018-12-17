@@ -1,0 +1,5 @@
+code,title,value,latest_date,source,source_link,notes,explore,units
+HTI1001,People Affected,2128708,2016-10-19,United Nations and Government,https://data.humdata.org/dataset/ocha-haiti-topline-figures,,,million
+HTI1002,People in Need of Assistance,1410774,2016-10-19,United Nations and Government,https://data.humdata.org/dataset/ocha-haiti-topline-figures,,,million
+HTI1006,Food Insecure People,806000,2016-10-19,United Nations and Government,https://data.humdata.org/dataset/ocha-haiti-topline-figures,,,count
+HTI1003,People Displaced,175509,2016-10-19,United Nations and Government,https://data.humdata.org/dataset/ocha-haiti-topline-figures,,,count

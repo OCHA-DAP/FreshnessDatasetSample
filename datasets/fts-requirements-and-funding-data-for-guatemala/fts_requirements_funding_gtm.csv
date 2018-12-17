@@ -1,0 +1,9 @@
+country,id,name,code,startDate,endDate,year,Requirements,Funding,Percent Funded
+#country+name,#activity+appeal+id+fts_internal,#activity+appeal+name,#activity+appeal+id+external,#date+start,#date+end,#date+year,#value+funding+required+usd,#value+funding+total+usd,#value+funding+pct
+Guatemala,509,Guatemala 2016,HGTM16,2016-01-01,2016-12-31,2016,56690000,15938844,28
+Guatemala,478,Guatemala 2015,FGTM1415,2014-12-24,2015-09-30,2015,23806581,30564665,128
+Guatemala,343,Guatemala Flash Appeal (Revised) (June - December 2010),FGTM10,2010-06-10,2010-12-09,2010,16701505,8103006,48
+Guatemala,338,Guatemala Food Insecurity and Acute Malnutrition Appeal 2010,CGTM10,2010-02-12,2010-08-11,2010,34193050,8238535,24
+Guatemala,188,Guatemala  2005,FGTM0506,2005-10-01,2006-03-31,2005,31860000,21898520,68
+Guatemala,,Not specified,,,,,,178985304,
+Guatemala,479,Honduras 2015,,,,,,20463101,

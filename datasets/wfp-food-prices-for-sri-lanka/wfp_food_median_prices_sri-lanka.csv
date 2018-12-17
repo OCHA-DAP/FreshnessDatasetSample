@@ -1,0 +1,242 @@
+adm1id,admname,category,catid,cmid,cmname,cmnameshort,country,currency,date,default,interpolated,label,mktid,mktname,price,ptid,scaling,sn,umid,unit,x,year
+#adm1+code,#adm1+name,#item+type,#item+type+code,#item+code,#item+name,#item+name+short,#country+name,#currency,#date,,,#item+label,,#name+market,#value,,,#meta+id,,#item+unit,,0.0
+0.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2013-01-15,,0.0,Rice (long grain) - Retail (KG),1565.0,National Average,60.73,15.0,1.0,1565_162_15_5,5.0,KG,1358208000.0,2013.0
+0.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2013-02-15,,0.0,Rice (long grain) - Retail (KG),1565.0,National Average,60.0,15.0,1.0,1565_162_15_5,5.0,KG,1360886400.0,2013.0
+0.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2013-03-15,,0.0,Rice (long grain) - Retail (KG),1565.0,National Average,60.12,15.0,1.0,1565_162_15_5,5.0,KG,1363305600.0,2013.0
+0.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2013-04-15,,0.0,Rice (long grain) - Retail (KG),1565.0,National Average,60.23,15.0,1.0,1565_162_15_5,5.0,KG,1365984000.0,2013.0
+0.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2013-05-15,,0.0,Rice (long grain) - Retail (KG),1565.0,National Average,60.5,15.0,1.0,1565_162_15_5,5.0,KG,1368576000.0,2013.0
+0.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2013-06-15,,0.0,Rice (long grain) - Retail (KG),1565.0,National Average,60.04,15.0,1.0,1565_162_15_5,5.0,KG,1371254400.0,2013.0
+0.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2013-07-15,,0.0,Rice (long grain) - Retail (KG),1565.0,National Average,60.24,15.0,1.0,1565_162_15_5,5.0,KG,1373846400.0,2013.0
+0.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2013-08-15,,0.0,Rice (long grain) - Retail (KG),1565.0,National Average,60.1,15.0,1.0,1565_162_15_5,5.0,KG,1376524800.0,2013.0
+0.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2013-09-15,,0.0,Rice (long grain) - Retail (KG),1565.0,National Average,59.97,15.0,1.0,1565_162_15_5,5.0,KG,1379203200.0,2013.0
+0.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2013-10-15,,0.0,Rice (long grain) - Retail (KG),1565.0,National Average,59.07,15.0,1.0,1565_162_15_5,5.0,KG,1381795200.0,2013.0
+0.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2013-11-15,,0.0,Rice (long grain) - Retail (KG),1565.0,National Average,60.19,15.0,1.0,1565_162_15_5,5.0,KG,1384473600.0,2013.0
+0.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2013-12-15,,0.0,Rice (long grain) - Retail (KG),1565.0,National Average,62.83,15.0,1.0,1565_162_15_5,5.0,KG,1387065600.0,2013.0
+0.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2014-01-15,,0.0,Rice (long grain) - Retail (KG),1565.0,National Average,71.22,15.0,1.0,1565_162_15_5,5.0,KG,1389744000.0,2014.0
+0.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2014-02-15,,0.0,Rice (long grain) - Retail (KG),1565.0,National Average,72.18,15.0,1.0,1565_162_15_5,5.0,KG,1392422400.0,2014.0
+0.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2014-03-15,,0.0,Rice (long grain) - Retail (KG),1565.0,National Average,72.77,15.0,1.0,1565_162_15_5,5.0,KG,1394841600.0,2014.0
+0.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2014-04-15,,0.0,Rice (long grain) - Retail (KG),1565.0,National Average,76.26,15.0,1.0,1565_162_15_5,5.0,KG,1397520000.0,2014.0
+0.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2014-05-15,,0.0,Rice (long grain) - Retail (KG),1565.0,National Average,77.15,15.0,1.0,1565_162_15_5,5.0,KG,1400112000.0,2014.0
+0.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2014-06-15,,0.0,Rice (long grain) - Retail (KG),1565.0,National Average,80.15,15.0,1.0,1565_162_15_5,5.0,KG,1402790400.0,2014.0
+0.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2014-07-15,,0.0,Rice (long grain) - Retail (KG),1565.0,National Average,74.88,15.0,1.0,1565_162_15_5,5.0,KG,1405382400.0,2014.0
+0.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2014-08-15,,0.0,Rice (long grain) - Retail (KG),1565.0,National Average,77.39,15.0,1.0,1565_162_15_5,5.0,KG,1408060800.0,2014.0
+0.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2014-09-15,,0.0,Rice (long grain) - Retail (KG),1565.0,National Average,82.15,15.0,1.0,1565_162_15_5,5.0,KG,1410739200.0,2014.0
+2741.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2015-01-15,,0.0,Rice (long grain) - Retail (KG),1919.0,Rathnapura,76.4,15.0,1.0,1919_162_15_5,5.0,KG,1421280000.0,2015.0
+2736.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2015-02-15,,0.0,Rice (long grain) - Retail (KG),1917.0,Nuwara Eliya,75.65,15.0,1.0,1917_162_15_5,5.0,KG,1423958400.0,2015.0
+2740.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2015-03-15,,0.0,Rice (long grain) - Retail (KG),363.0,Kilinochchi,70.67,15.0,1.0,363_162_15_5,5.0,KG,1426377600.0,2015.0
+2740.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2015-04-15,,0.0,Rice (long grain) - Retail (KG),363.0,Kilinochchi,67.6667,15.0,1.0,363_162_15_5,5.0,KG,1429056000.0,2015.0
+2738.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2015-05-15,,0.0,Rice (long grain) - Retail (KG),1888.0,Polonnaruwa,67.5,15.0,1.0,1888_162_15_5,5.0,KG,1431648000.0,2015.0
+2744.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2015-06-15,,0.0,Rice (long grain) - Retail (KG),1911.0,Kalutara,67.44,15.0,1.0,1911_162_15_5,5.0,KG,1434326400.0,2015.0
+2737.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2015-07-15,,0.0,Rice (long grain) - Retail (KG),366.0,Trincomalee,64.2,15.0,1.0,366_162_15_5,5.0,KG,1436918400.0,2015.0
+2738.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2015-08-15,,0.0,Rice (long grain) - Retail (KG),1888.0,Polonnaruwa,61.72,15.0,1.0,1888_162_15_5,5.0,KG,1439596800.0,2015.0
+2742.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2015-09-15,,0.0,Rice (long grain) - Retail (KG),1908.0,Hambantota,62.25,15.0,1.0,1908_162_15_5,5.0,KG,1442275200.0,2015.0
+2741.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2015-10-15,,0.0,Rice (long grain) - Retail (KG),1919.0,Rathnapura,62.1,15.0,1.0,1919_162_15_5,5.0,KG,1444867200.0,2015.0
+2739.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2015-11-15,,0.0,Rice (long grain) - Retail (KG),1918.0,Puttalm,66.15,15.0,1.0,1918_162_15_5,5.0,KG,1447545600.0,2015.0
+2741.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2015-12-15,,0.0,Rice (long grain) - Retail (KG),1919.0,Rathnapura,68.35,15.0,1.0,1919_162_15_5,5.0,KG,1450137600.0,2015.0
+2744.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2016-01-15,,0.0,Rice (long grain) - Retail (KG),368.0,Colombo City,86.28,15.0,1.0,368_162_15_5,5.0,KG,1452816000.0,2016.0
+2741.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2016-02-15,,0.0,Rice (long grain) - Retail (KG),1913.0,Kegalle,72.6667,15.0,1.0,1913_162_15_5,5.0,KG,1455494400.0,2016.0
+2736.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2016-03-15,,0.0,Rice (long grain) - Retail (KG),1912.0,Kandy,67.6667,15.0,1.0,1912_162_15_5,5.0,KG,1458000000.0,2016.0
+2740.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2016-04-15,,0.0,Rice (long grain) - Retail (KG),365.0,Mulaitivu,69.1667,15.0,1.0,365_162_15_5,5.0,KG,1460678400.0,2016.0
+2738.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2016-05-15,,0.0,Rice (long grain) - Retail (KG),1906.0,Anuradhapura,72.4167,15.0,1.0,1906_162_15_5,5.0,KG,1463270400.0,2016.0
+2736.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2016-06-15,,0.0,Rice (long grain) - Retail (KG),1912.0,Kandy,75.3333,15.0,1.0,1912_162_15_5,5.0,KG,1465948800.0,2016.0
+2737.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2016-07-15,,0.0,Rice (long grain) - Retail (KG),360.0,Ampara,74.9,15.0,1.0,360_162_15_5,5.0,KG,1468540800.0,2016.0
+2736.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2016-08-15,,0.0,Rice (long grain) - Retail (KG),1917.0,Nuwara Eliya,73.75,15.0,1.0,1917_162_15_5,5.0,KG,1471219200.0,2016.0
+2737.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2016-09-15,,0.0,Rice (long grain) - Retail (KG),361.0,Batticaloa,65.0,15.0,1.0,361_162_15_5,5.0,KG,1473897600.0,2016.0
+2740.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2016-10-15,,0.0,Rice (long grain) - Retail (KG),363.0,Kilinochchi,68.6667,15.0,1.0,363_162_15_5,5.0,KG,1476489600.0,2016.0
+2740.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2016-11-15,,0.0,Rice (long grain) - Retail (KG),364.0,Mannar,75.3333,15.0,1.0,364_162_15_5,5.0,KG,1479168000.0,2016.0
+2736.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2016-12-15,,0.0,Rice (long grain) - Retail (KG),1917.0,Nuwara Eliya,80.9,15.0,1.0,1917_162_15_5,5.0,KG,1481760000.0,2016.0
+2740.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2017-01-15,,0.0,Rice (long grain) - Retail (KG),362.0,Jaffna,89.6,15.0,1.0,362_162_15_5,5.0,KG,1484438400.0,2017.0
+2744.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2017-02-15,,0.0,Rice (long grain) - Retail (KG),368.0,Colombo City,93.2212,15.0,1.0,368_162_15_5,5.0,KG,1487116800.0,2017.0
+2744.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2017-03-15,,0.0,Rice (long grain) - Retail (KG),368.0,Colombo City,84.5687,15.0,1.0,368_162_15_5,5.0,KG,1489536000.0,2017.0
+2736.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2017-04-15,,0.0,Rice (long grain) - Retail (KG),1915.0,Matale,84.0,15.0,1.0,1915_162_15_5,5.0,KG,1492214400.0,2017.0
+2738.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2017-05-15,,0.0,Rice (long grain) - Retail (KG),1906.0,Anuradhapura,86.5867,15.0,1.0,1906_162_15_5,5.0,KG,1494806400.0,2017.0
+2744.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2017-06-15,,0.0,Rice (long grain) - Retail (KG),1911.0,Kalutara,92.17,15.0,1.0,1911_162_15_5,5.0,KG,1497484800.0,2017.0
+2739.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2017-07-15,,0.0,Rice (long grain) - Retail (KG),1918.0,Puttalm,90.0,15.0,1.0,1918_162_15_5,5.0,KG,1500076800.0,2017.0
+2736.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2017-08-15,,0.0,Rice (long grain) - Retail (KG),1915.0,Matale,84.6667,15.0,1.0,1915_162_15_5,5.0,KG,1502755200.0,2017.0
+2736.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2017-09-15,,0.0,Rice (long grain) - Retail (KG),1917.0,Nuwara Eliya,92.5833,15.0,1.0,1917_162_15_5,5.0,KG,1505433600.0,2017.0
+2743.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2017-10-15,,0.0,Rice (long grain) - Retail (KG),1907.0,Badulla,97.55,15.0,1.0,1907_162_15_5,5.0,KG,1508025600.0,2017.0
+2744.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2017-11-15,,0.0,Rice (long grain) - Retail (KG),1911.0,Kalutara,99.2,15.0,1.0,1911_162_15_5,5.0,KG,1510704000.0,2017.0
+2744.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2017-12-15,,0.0,Rice (long grain) - Retail (KG),1909.0,Gampaha,100.7,15.0,1.0,1909_162_15_5,5.0,KG,1513296000.0,2017.0
+2744.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2018-01-15,,0.0,Rice (long grain) - Retail (KG),368.0,Colombo City,87.0,15.0,1.0,368_162_15_5,5.0,KG,1515974400.0,2018.0
+2744.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2018-02-15,,0.0,Rice (long grain) - Retail (KG),368.0,Colombo City,80.5,15.0,1.0,368_162_15_5,5.0,KG,1518652800.0,2018.0
+2741.0,,cereals and tubers,1,162,Rice (long grain) - Retail,Rice long grain,Sri Lanka,LKR,2018-03-15,,0.0,Rice (long grain) - Retail (KG),1913.0,Kegalle,95.0,15.0,1.0,1913_162_15_5,5.0,KG,1521072000.0,2018.0
+0.0,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,Sri Lanka,LKR,2013-01-15,,0.0,Rice (red nadu) - Retail (KG),1565.0,National Average,62.9,15.0,1.0,1565_157_15_5,5.0,KG,1358208000.0,2013.0
+0.0,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,Sri Lanka,LKR,2013-02-15,,0.0,Rice (red nadu) - Retail (KG),1565.0,National Average,64.1,15.0,1.0,1565_157_15_5,5.0,KG,1360886400.0,2013.0
+0.0,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,Sri Lanka,LKR,2013-03-15,,0.0,Rice (red nadu) - Retail (KG),1565.0,National Average,62.0,15.0,1.0,1565_157_15_5,5.0,KG,1363305600.0,2013.0
+0.0,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,Sri Lanka,LKR,2013-04-15,,0.0,Rice (red nadu) - Retail (KG),1565.0,National Average,63.9,15.0,1.0,1565_157_15_5,5.0,KG,1365984000.0,2013.0
+0.0,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,Sri Lanka,LKR,2013-05-15,,0.0,Rice (red nadu) - Retail (KG),1565.0,National Average,60.93,15.0,1.0,1565_157_15_5,5.0,KG,1368576000.0,2013.0
+0.0,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,Sri Lanka,LKR,2013-06-15,,0.0,Rice (red nadu) - Retail (KG),1565.0,National Average,60.95,15.0,1.0,1565_157_15_5,5.0,KG,1371254400.0,2013.0
+0.0,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,Sri Lanka,LKR,2013-07-15,,0.0,Rice (red nadu) - Retail (KG),1565.0,National Average,61.3,15.0,1.0,1565_157_15_5,5.0,KG,1373846400.0,2013.0
+0.0,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,Sri Lanka,LKR,2013-08-15,,0.0,Rice (red nadu) - Retail (KG),1565.0,National Average,60.2,15.0,1.0,1565_157_15_5,5.0,KG,1376524800.0,2013.0
+0.0,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,Sri Lanka,LKR,2013-09-15,,0.0,Rice (red nadu) - Retail (KG),1565.0,National Average,62.5,15.0,1.0,1565_157_15_5,5.0,KG,1379203200.0,2013.0
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2013-10-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2013-11-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2013-12-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2014-01-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2014-02-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2014-03-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2014-04-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2014-05-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2014-06-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2014-07-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2014-08-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2014-09-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2015-01-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2015-02-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2015-03-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2015-04-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2015-05-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2015-06-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2015-07-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2015-08-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2015-09-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2015-10-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2015-11-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2015-12-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2016-01-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2016-02-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2016-03-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2016-04-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2016-05-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2016-06-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2016-07-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2016-08-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2016-09-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2016-10-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2016-11-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2016-12-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2017-01-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2017-02-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2017-03-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2017-04-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2017-05-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2017-06-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2017-07-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2017-08-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2017-09-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2017-10-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2017-11-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2017-12-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2018-01-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2018-02-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+,,cereals and tubers,1,157,Rice (red nadu) - Retail,Rice red nadu,,,2018-03-15,,1.0,Rice (red nadu) - Retail (KG),,,62.5,,1.0,,,KG,,
+0.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2013-01-15,,0.0,Sugar - Retail (KG),1565.0,National Average,102.5,15.0,1.0,1565_97_15_5,5.0,KG,1358208000.0,2013.0
+0.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2013-02-15,,0.0,Sugar - Retail (KG),1565.0,National Average,104.9,15.0,1.0,1565_97_15_5,5.0,KG,1360886400.0,2013.0
+0.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2013-03-15,,0.0,Sugar - Retail (KG),1565.0,National Average,105.1,15.0,1.0,1565_97_15_5,5.0,KG,1363305600.0,2013.0
+0.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2013-04-15,,0.0,Sugar - Retail (KG),1565.0,National Average,99.59,15.0,1.0,1565_97_15_5,5.0,KG,1365984000.0,2013.0
+0.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2013-05-15,,0.0,Sugar - Retail (KG),1565.0,National Average,98.65,15.0,1.0,1565_97_15_5,5.0,KG,1368576000.0,2013.0
+0.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2013-06-15,,0.0,Sugar - Retail (KG),1565.0,National Average,99.6,15.0,1.0,1565_97_15_5,5.0,KG,1371254400.0,2013.0
+0.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2013-07-15,,0.0,Sugar - Retail (KG),1565.0,National Average,99.6,15.0,1.0,1565_97_15_5,5.0,KG,1373846400.0,2013.0
+0.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2013-08-15,,0.0,Sugar - Retail (KG),1565.0,National Average,102.5,15.0,1.0,1565_97_15_5,5.0,KG,1376524800.0,2013.0
+0.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2013-09-15,,0.0,Sugar - Retail (KG),1565.0,National Average,103.2,15.0,1.0,1565_97_15_5,5.0,KG,1379203200.0,2013.0
+2744.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2013-10-15,,0.0,Sugar - Retail (KG),368.0,Colombo City,98.09,15.0,1.0,368_97_15_5,5.0,KG,1381795200.0,2013.0
+2744.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2013-11-15,,0.0,Sugar - Retail (KG),368.0,Colombo City,100.72,15.0,1.0,368_97_15_5,5.0,KG,1384473600.0,2013.0
+2744.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2013-12-15,,0.0,Sugar - Retail (KG),368.0,Colombo City,100.73,15.0,1.0,368_97_15_5,5.0,KG,1387065600.0,2013.0
+2744.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2014-01-15,,0.0,Sugar - Retail (KG),368.0,Colombo City,101.57,15.0,1.0,368_97_15_5,5.0,KG,1389744000.0,2014.0
+2744.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2014-02-15,,0.0,Sugar - Retail (KG),368.0,Colombo City,102.39,15.0,1.0,368_97_15_5,5.0,KG,1392422400.0,2014.0
+2744.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2014-03-15,,0.0,Sugar - Retail (KG),368.0,Colombo City,102.33,15.0,1.0,368_97_15_5,5.0,KG,1394841600.0,2014.0
+2744.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2014-04-15,,0.0,Sugar - Retail (KG),368.0,Colombo City,101.69,15.0,1.0,368_97_15_5,5.0,KG,1397520000.0,2014.0
+2744.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2014-05-15,,0.0,Sugar - Retail (KG),368.0,Colombo City,101.58,15.0,1.0,368_97_15_5,5.0,KG,1400112000.0,2014.0
+2744.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2014-06-15,,0.0,Sugar - Retail (KG),368.0,Colombo City,103.4,15.0,1.0,368_97_15_5,5.0,KG,1402790400.0,2014.0
+2744.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2014-07-15,,0.0,Sugar - Retail (KG),368.0,Colombo City,100.055,15.0,1.0,368_97_15_5,5.0,KG,1405382400.0,2014.0
+2744.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2014-08-15,,0.0,Sugar - Retail (KG),368.0,Colombo City,98.83,15.0,1.0,368_97_15_5,5.0,KG,1408060800.0,2014.0
+2744.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2014-09-15,,0.0,Sugar - Retail (KG),368.0,Colombo City,98.37,15.0,1.0,368_97_15_5,5.0,KG,1410739200.0,2014.0
+0.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2015-01-15,,0.0,Sugar - Retail (KG),1565.0,National Average,82.35,15.0,1.0,1565_97_15_5,5.0,KG,1421280000.0,2015.0
+0.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2015-02-15,,0.0,Sugar - Retail (KG),1565.0,National Average,81.85,15.0,1.0,1565_97_15_5,5.0,KG,1423958400.0,2015.0
+0.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2015-03-15,,0.0,Sugar - Retail (KG),1565.0,National Average,81.03,15.0,1.0,1565_97_15_5,5.0,KG,1426377600.0,2015.0
+0.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2015-04-15,,0.0,Sugar - Retail (KG),1565.0,National Average,82.33,15.0,1.0,1565_97_15_5,5.0,KG,1429056000.0,2015.0
+0.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2015-05-15,,0.0,Sugar - Retail (KG),1565.0,National Average,80.9,15.0,1.0,1565_97_15_5,5.0,KG,1431648000.0,2015.0
+0.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2015-06-15,,0.0,Sugar - Retail (KG),1565.0,National Average,80.0,15.0,1.0,1565_97_15_5,5.0,KG,1434326400.0,2015.0
+0.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2015-07-15,,0.0,Sugar - Retail (KG),1565.0,National Average,79.6,15.0,1.0,1565_97_15_5,5.0,KG,1436918400.0,2015.0
+0.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2015-08-15,,0.0,Sugar - Retail (KG),1565.0,National Average,80.35,15.0,1.0,1565_97_15_5,5.0,KG,1439596800.0,2015.0
+0.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2015-09-15,,0.0,Sugar - Retail (KG),1565.0,National Average,84.0,15.0,1.0,1565_97_15_5,5.0,KG,1442275200.0,2015.0
+0.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2015-10-15,,0.0,Sugar - Retail (KG),1565.0,National Average,91.35,15.0,1.0,1565_97_15_5,5.0,KG,1444867200.0,2015.0
+0.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2015-11-15,,0.0,Sugar - Retail (KG),1565.0,National Average,91.2,15.0,1.0,1565_97_15_5,5.0,KG,1447545600.0,2015.0
+2744.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2015-12-15,,0.0,Sugar - Retail (KG),368.0,Colombo City,90.0,15.0,1.0,368_97_15_5,5.0,KG,1450137600.0,2015.0
+2744.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2016-01-15,,0.0,Sugar - Retail (KG),368.0,Colombo City,96.8,15.0,1.0,368_97_15_5,5.0,KG,1452816000.0,2016.0
+2741.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2016-02-15,,0.0,Sugar - Retail (KG),1919.0,Rathnapura,98.3333,15.0,1.0,1919_97_15_5,5.0,KG,1455494400.0,2016.0
+2744.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2016-03-15,,0.0,Sugar - Retail (KG),1909.0,Gampaha,99.125,15.0,1.0,1909_97_15_5,5.0,KG,1458000000.0,2016.0
+2741.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2016-04-15,,0.0,Sugar - Retail (KG),1919.0,Rathnapura,103.0,15.0,1.0,1919_97_15_5,5.0,KG,1460678400.0,2016.0
+2736.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2016-05-15,,0.0,Sugar - Retail (KG),1915.0,Matale,105.1667,15.0,1.0,1915_97_15_5,5.0,KG,1463270400.0,2016.0
+2739.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2016-06-15,,0.0,Sugar - Retail (KG),1918.0,Puttalm,116.1667,15.0,1.0,1918_97_15_5,5.0,KG,1465948800.0,2016.0
+2739.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2016-07-15,,0.0,Sugar - Retail (KG),1914.0,Kurunegala,107.9167,15.0,1.0,1914_97_15_5,5.0,KG,1468540800.0,2016.0
+2736.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2016-08-15,,0.0,Sugar - Retail (KG),1912.0,Kandy,95.0,15.0,1.0,1912_97_15_5,5.0,KG,1471219200.0,2016.0
+2744.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2016-09-15,,0.0,Sugar - Retail (KG),368.0,Colombo City,95.225,15.0,1.0,368_97_15_5,5.0,KG,1473897600.0,2016.0
+2744.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2016-10-15,,0.0,Sugar - Retail (KG),368.0,Colombo City,95.225,15.0,1.0,368_97_15_5,5.0,KG,1476489600.0,2016.0
+2744.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2016-11-15,,0.0,Sugar - Retail (KG),368.0,Colombo City,93.07,15.0,1.0,368_97_15_5,5.0,KG,1479168000.0,2016.0
+2744.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2016-12-15,,0.0,Sugar - Retail (KG),368.0,Colombo City,97.605,15.0,1.0,368_97_15_5,5.0,KG,1481760000.0,2016.0
+2744.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2017-01-15,,0.0,Sugar - Retail (KG),368.0,Colombo City,102.1975,15.0,1.0,368_97_15_5,5.0,KG,1484438400.0,2017.0
+2744.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2017-02-15,,0.0,Sugar - Retail (KG),368.0,Colombo City,101.66,15.0,1.0,368_97_15_5,5.0,KG,1487116800.0,2017.0
+2744.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2017-03-15,,0.0,Sugar - Retail (KG),368.0,Colombo City,105.355,15.0,1.0,368_97_15_5,5.0,KG,1489536000.0,2017.0
+2739.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2017-04-15,,0.0,Sugar - Retail (KG),1914.0,Kurunegala,109.5,15.0,1.0,1914_97_15_5,5.0,KG,1492214400.0,2017.0
+2743.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2017-05-15,,0.0,Sugar - Retail (KG),1907.0,Badulla,108.33,15.0,1.0,1907_97_15_5,5.0,KG,1494806400.0,2017.0
+2744.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2017-06-15,,0.0,Sugar - Retail (KG),1911.0,Kalutara,107.25,15.0,1.0,1911_97_15_5,5.0,KG,1497484800.0,2017.0
+2740.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2017-07-15,,0.0,Sugar - Retail (KG),363.0,Kilinochchi,106.25,15.0,1.0,363_97_15_5,5.0,KG,1500076800.0,2017.0
+2740.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2017-08-15,,0.0,Sugar - Retail (KG),364.0,Mannar,106.3333,15.0,1.0,364_97_15_5,5.0,KG,1502755200.0,2017.0
+2743.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2017-09-15,,0.0,Sugar - Retail (KG),1889.0,Monaragala,109.5,15.0,1.0,1889_97_15_5,5.0,KG,1505433600.0,2017.0
+2737.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2017-10-15,,0.0,Sugar - Retail (KG),361.0,Batticaloa,109.33,15.0,1.0,361_97_15_5,5.0,KG,1508025600.0,2017.0
+2740.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2017-11-15,,0.0,Sugar - Retail (KG),365.0,Mulaitivu,110.0,15.0,1.0,365_97_15_5,5.0,KG,1510704000.0,2017.0
+2740.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2017-12-15,,0.0,Sugar - Retail (KG),365.0,Mulaitivu,110.0,15.0,1.0,365_97_15_5,5.0,KG,1513296000.0,2017.0
+2744.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2018-01-15,,0.0,Sugar - Retail (KG),368.0,Colombo City,110.0,15.0,1.0,368_97_15_5,5.0,KG,1515974400.0,2018.0
+2744.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2018-02-15,,0.0,Sugar - Retail (KG),368.0,Colombo City,109.0,15.0,1.0,368_97_15_5,5.0,KG,1518652800.0,2018.0
+2744.0,,miscellaneous food,7,97,Sugar - Retail,Sugar,Sri Lanka,LKR,2018-03-15,,0.0,Sugar - Retail (KG),368.0,Colombo City,108.0,15.0,1.0,368_97_15_5,5.0,KG,1521072000.0,2018.0
+0.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2013-01-15,,0.0,Wheat flour - Retail (KG),1565.0,National Average,98.74,15.0,1.0,1565_58_15_5,5.0,KG,1358208000.0,2013.0
+0.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2013-02-15,,0.0,Wheat flour - Retail (KG),1565.0,National Average,99.1,15.0,1.0,1565_58_15_5,5.0,KG,1360886400.0,2013.0
+0.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2013-03-15,,0.0,Wheat flour - Retail (KG),1565.0,National Average,98.2,15.0,1.0,1565_58_15_5,5.0,KG,1363305600.0,2013.0
+0.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2013-04-15,,0.0,Wheat flour - Retail (KG),1565.0,National Average,99.66,15.0,1.0,1565_58_15_5,5.0,KG,1365984000.0,2013.0
+0.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2013-05-15,,0.0,Wheat flour - Retail (KG),1565.0,National Average,98.66,15.0,1.0,1565_58_15_5,5.0,KG,1368576000.0,2013.0
+0.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2013-06-15,,0.0,Wheat flour - Retail (KG),1565.0,National Average,98.2,15.0,1.0,1565_58_15_5,5.0,KG,1371254400.0,2013.0
+0.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2013-07-15,,0.0,Wheat flour - Retail (KG),1565.0,National Average,97.52,15.0,1.0,1565_58_15_5,5.0,KG,1373846400.0,2013.0
+0.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2013-08-15,,0.0,Wheat flour - Retail (KG),1565.0,National Average,98.1,15.0,1.0,1565_58_15_5,5.0,KG,1376524800.0,2013.0
+0.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2013-09-15,,0.0,Wheat flour - Retail (KG),1565.0,National Average,98.2,15.0,1.0,1565_58_15_5,5.0,KG,1379203200.0,2013.0
+2744.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2013-10-15,,0.0,Wheat flour - Retail (KG),368.0,Colombo City,98.0,15.0,1.0,368_58_15_5,5.0,KG,1381795200.0,2013.0
+2744.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2013-11-15,,0.0,Wheat flour - Retail (KG),368.0,Colombo City,97.52,15.0,1.0,368_58_15_5,5.0,KG,1384473600.0,2013.0
+2744.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2013-12-15,,0.0,Wheat flour - Retail (KG),368.0,Colombo City,97.32,15.0,1.0,368_58_15_5,5.0,KG,1387065600.0,2013.0
+2744.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2014-01-15,,0.0,Wheat flour - Retail (KG),368.0,Colombo City,97.55,15.0,1.0,368_58_15_5,5.0,KG,1389744000.0,2014.0
+2744.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2014-02-15,,0.0,Wheat flour - Retail (KG),368.0,Colombo City,97.52,15.0,1.0,368_58_15_5,5.0,KG,1392422400.0,2014.0
+2744.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2014-03-15,,0.0,Wheat flour - Retail (KG),368.0,Colombo City,97.39,15.0,1.0,368_58_15_5,5.0,KG,1394841600.0,2014.0
+2744.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2014-04-15,,0.0,Wheat flour - Retail (KG),368.0,Colombo City,97.38,15.0,1.0,368_58_15_5,5.0,KG,1397520000.0,2014.0
+2744.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2014-05-15,,0.0,Wheat flour - Retail (KG),368.0,Colombo City,97.13,15.0,1.0,368_58_15_5,5.0,KG,1400112000.0,2014.0
+2744.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2014-06-15,,0.0,Wheat flour - Retail (KG),368.0,Colombo City,97.54,15.0,1.0,368_58_15_5,5.0,KG,1402790400.0,2014.0
+2744.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2014-07-15,,0.0,Wheat flour - Retail (KG),368.0,Colombo City,99.02,15.0,1.0,368_58_15_5,5.0,KG,1405382400.0,2014.0
+2744.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2014-08-15,,0.0,Wheat flour - Retail (KG),368.0,Colombo City,97.2,15.0,1.0,368_58_15_5,5.0,KG,1408060800.0,2014.0
+2744.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2014-09-15,,0.0,Wheat flour - Retail (KG),368.0,Colombo City,97.65,15.0,1.0,368_58_15_5,5.0,KG,1410739200.0,2014.0
+2741.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2015-01-15,,0.0,Wheat flour - Retail (KG),1919.0,Rathnapura,97.33,15.0,1.0,1919_58_15_5,5.0,KG,1421280000.0,2015.0
+2741.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2015-02-15,,0.0,Wheat flour - Retail (KG),1919.0,Rathnapura,87.1675,15.0,1.0,1919_58_15_5,5.0,KG,1423958400.0,2015.0
+2736.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2015-03-15,,0.0,Wheat flour - Retail (KG),1915.0,Matale,86.0,15.0,1.0,1915_58_15_5,5.0,KG,1426377600.0,2015.0
+2736.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2015-04-15,,0.0,Wheat flour - Retail (KG),1915.0,Matale,86.0,15.0,1.0,1915_58_15_5,5.0,KG,1429056000.0,2015.0
+2742.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2015-05-15,,0.0,Wheat flour - Retail (KG),1916.0,Matara,85.6667,15.0,1.0,1916_58_15_5,5.0,KG,1431648000.0,2015.0
+2739.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2015-06-15,,0.0,Wheat flour - Retail (KG),1914.0,Kurunegala,85.5,15.0,1.0,1914_58_15_5,5.0,KG,1434326400.0,2015.0
+2738.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2015-07-15,,0.0,Wheat flour - Retail (KG),1888.0,Polonnaruwa,85.25,15.0,1.0,1888_58_15_5,5.0,KG,1436918400.0,2015.0
+2741.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2015-08-15,,0.0,Wheat flour - Retail (KG),1919.0,Rathnapura,85.25,15.0,1.0,1919_58_15_5,5.0,KG,1439596800.0,2015.0
+2736.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2015-09-15,,0.0,Wheat flour - Retail (KG),1912.0,Kandy,85.0,15.0,1.0,1912_58_15_5,5.0,KG,1442275200.0,2015.0
+2736.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2015-10-15,,0.0,Wheat flour - Retail (KG),1912.0,Kandy,85.0,15.0,1.0,1912_58_15_5,5.0,KG,1444867200.0,2015.0
+2736.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2015-11-15,,0.0,Wheat flour - Retail (KG),1912.0,Kandy,85.0,15.0,1.0,1912_58_15_5,5.0,KG,1447545600.0,2015.0
+2736.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2015-12-15,,0.0,Wheat flour - Retail (KG),1912.0,Kandy,85.0,15.0,1.0,1912_58_15_5,5.0,KG,1450137600.0,2015.0
+2744.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2016-01-15,,0.0,Wheat flour - Retail (KG),368.0,Colombo City,93.67,15.0,1.0,368_58_15_5,5.0,KG,1452816000.0,2016.0
+2742.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2016-02-15,,0.0,Wheat flour - Retail (KG),1916.0,Matara,86.4167,15.0,1.0,1916_58_15_5,5.0,KG,1455494400.0,2016.0
+2738.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2016-03-15,,0.0,Wheat flour - Retail (KG),1888.0,Polonnaruwa,87.5833,15.0,1.0,1888_58_15_5,5.0,KG,1458000000.0,2016.0
+2744.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2016-04-15,,0.0,Wheat flour - Retail (KG),368.0,Colombo City,92.23,15.0,1.0,368_58_15_5,5.0,KG,1460678400.0,2016.0
+2740.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2016-05-15,,0.0,Wheat flour - Retail (KG),364.0,Mannar,93.0,15.0,1.0,364_58_15_5,5.0,KG,1463270400.0,2016.0
+2741.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2016-06-15,,0.0,Wheat flour - Retail (KG),1919.0,Rathnapura,92.0,15.0,1.0,1919_58_15_5,5.0,KG,1465948800.0,2016.0
+2736.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2016-07-15,,0.0,Wheat flour - Retail (KG),1912.0,Kandy,91.5,15.0,1.0,1912_58_15_5,5.0,KG,1468540800.0,2016.0
+2736.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2016-08-15,,0.0,Wheat flour - Retail (KG),1915.0,Matale,87.0,15.0,1.0,1915_58_15_5,5.0,KG,1471219200.0,2016.0
+2744.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2016-09-15,,0.0,Wheat flour - Retail (KG),368.0,Colombo City,88.8325,15.0,1.0,368_58_15_5,5.0,KG,1473897600.0,2016.0
+2744.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2016-10-15,,0.0,Wheat flour - Retail (KG),368.0,Colombo City,88.8325,15.0,1.0,368_58_15_5,5.0,KG,1476489600.0,2016.0
+2744.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2016-11-15,,0.0,Wheat flour - Retail (KG),368.0,Colombo City,93.325,15.0,1.0,368_58_15_5,5.0,KG,1479168000.0,2016.0
+2744.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2016-12-15,,0.0,Wheat flour - Retail (KG),368.0,Colombo City,88.93,15.0,1.0,368_58_15_5,5.0,KG,1481760000.0,2016.0
+2744.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2017-01-15,,0.0,Wheat flour - Retail (KG),368.0,Colombo City,89.195,15.0,1.0,368_58_15_5,5.0,KG,1484438400.0,2017.0
+2744.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2017-02-15,,0.0,Wheat flour - Retail (KG),368.0,Colombo City,89.12,15.0,1.0,368_58_15_5,5.0,KG,1487116800.0,2017.0
+2744.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2017-03-15,,0.0,Wheat flour - Retail (KG),368.0,Colombo City,89.2525,15.0,1.0,368_58_15_5,5.0,KG,1489536000.0,2017.0
+2736.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2017-04-15,,0.0,Wheat flour - Retail (KG),1917.0,Nuwara Eliya,88.0,15.0,1.0,1917_58_15_5,5.0,KG,1492214400.0,2017.0
+2737.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2017-05-15,,0.0,Wheat flour - Retail (KG),360.0,Ampara,87.0,15.0,1.0,360_58_15_5,5.0,KG,1494806400.0,2017.0
+2741.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2017-06-15,,0.0,Wheat flour - Retail (KG),1919.0,Rathnapura,87.3333,15.0,1.0,1919_58_15_5,5.0,KG,1497484800.0,2017.0
+2736.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2017-07-15,,0.0,Wheat flour - Retail (KG),1915.0,Matale,87.0,15.0,1.0,1915_58_15_5,5.0,KG,1500076800.0,2017.0
+2736.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2017-08-15,,0.0,Wheat flour - Retail (KG),1917.0,Nuwara Eliya,87.0,15.0,1.0,1917_58_15_5,5.0,KG,1502755200.0,2017.0
+2736.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2017-09-15,,0.0,Wheat flour - Retail (KG),1915.0,Matale,87.0,15.0,1.0,1915_58_15_5,5.0,KG,1505433600.0,2017.0
+2737.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2017-10-15,,0.0,Wheat flour - Retail (KG),360.0,Ampara,87.67,15.0,1.0,360_58_15_5,5.0,KG,1508025600.0,2017.0
+2743.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2017-11-15,,0.0,Wheat flour - Retail (KG),1907.0,Badulla,88.0,15.0,1.0,1907_58_15_5,5.0,KG,1510704000.0,2017.0
+2736.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2017-12-15,,0.0,Wheat flour - Retail (KG),1917.0,Nuwara Eliya,88.0,15.0,1.0,1917_58_15_5,5.0,KG,1513296000.0,2017.0
+2744.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2018-01-15,,0.0,Wheat flour - Retail (KG),368.0,Colombo City,89.6,15.0,1.0,368_58_15_5,5.0,KG,1515974400.0,2018.0
+2744.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2018-02-15,,0.0,Wheat flour - Retail (KG),368.0,Colombo City,90.0,15.0,1.0,368_58_15_5,5.0,KG,1518652800.0,2018.0
+2744.0,,cereals and tubers,1,58,Wheat flour - Retail,Wheat flour,Sri Lanka,LKR,2018-03-15,,0.0,Wheat flour - Retail (KG),368.0,Colombo City,90.0,15.0,1.0,368_58_15_5,5.0,KG,1521072000.0,2018.0

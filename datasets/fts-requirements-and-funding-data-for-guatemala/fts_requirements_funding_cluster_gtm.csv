@@ -1,0 +1,39 @@
+country,id,name,code,startDate,endDate,year,clusterCode,Cluster,Requirements,Funding,Percent Funded
+#country+name,#activity+appeal+id+fts_internal,#activity+appeal+name,#activity+appeal+id+external,#date+start,#date+end,#date+year,#sector+cluster+code,#sector+cluster+name,#value+funding+required+usd,#value+funding+total+usd,#value+funding+pct
+Guatemala,509,Guatemala 2016,HGTM16,2016-01-01,2016-12-31,2016,26480,Coordination and support services,250000,,
+Guatemala,509,Guatemala 2016,HGTM16,2016-01-01,2016-12-31,2016,6,Food Security,48100000,1535088,3
+Guatemala,509,Guatemala 2016,HGTM16,2016-01-01,2016-12-31,2016,7,Health,3500000,445074,12
+Guatemala,509,Guatemala 2016,HGTM16,2016-01-01,2016-12-31,2016,,Not specified,,13458668,
+Guatemala,509,Guatemala 2016,HGTM16,2016-01-01,2016-12-31,2016,9,Nutrition,2040000,500014,24
+Guatemala,509,Guatemala 2016,HGTM16,2016-01-01,2016-12-31,2016,11,Water Sanitation Hygiene,2800000,,
+Guatemala,478,Guatemala 2015,FGTM1415,2014-12-24,2015-09-30,2015,26512,Agriculture,4957300,,
+Guatemala,478,Guatemala 2015,FGTM1415,2014-12-24,2015-09-30,2015,26480,Coordination and support services,25046,,
+Guatemala,478,Guatemala 2015,FGTM1415,2014-12-24,2015-09-30,2015,6,Food Security,12141816,0,0
+Guatemala,478,Guatemala 2015,FGTM1415,2014-12-24,2015-09-30,2015,7,Health,6092419,398896,6
+Guatemala,478,Guatemala 2015,FGTM1415,2014-12-24,2015-09-30,2015,undefined,Not specified,,0,
+Guatemala,478,Guatemala 2015,FGTM1415,2014-12-24,2015-09-30,2015,11,Water Sanitation Hygiene,590000,,
+Guatemala,343,Guatemala Flash Appeal (Revised) (June - December 2010),FGTM10,2010-06-10,2010-12-09,2010,26512,Agriculture,3149671,962671,30
+Guatemala,343,Guatemala Flash Appeal (Revised) (June - December 2010),FGTM10,2010-06-10,2010-12-09,2010,2,Early Recovery,428000,,
+Guatemala,343,Guatemala Flash Appeal (Revised) (June - December 2010),FGTM10,2010-06-10,2010-12-09,2010,3,Education,420000,,
+Guatemala,343,Guatemala Flash Appeal (Revised) (June - December 2010),FGTM10,2010-06-10,2010-12-09,2010,4,Emergency Shelter and NFI,1764999,654306,37
+Guatemala,343,Guatemala Flash Appeal (Revised) (June - December 2010),FGTM10,2010-06-10,2010-12-09,2010,6,Food Security,6059957,4929278,81
+Guatemala,343,Guatemala Flash Appeal (Revised) (June - December 2010),FGTM10,2010-06-10,2010-12-09,2010,7,Health,1905718,1191292,62
+Guatemala,343,Guatemala Flash Appeal (Revised) (June - December 2010),FGTM10,2010-06-10,2010-12-09,2010,11,Water Sanitation Hygiene,2973160,365459,12
+Guatemala,338,Guatemala Food Insecurity and Acute Malnutrition Appeal 2010,CGTM10,2010-02-12,2010-08-11,2010,26512,Agriculture,5542000,,
+Guatemala,338,Guatemala Food Insecurity and Acute Malnutrition Appeal 2010,CGTM10,2010-02-12,2010-08-11,2010,2,Early Recovery,2354000,,
+Guatemala,338,Guatemala Food Insecurity and Acute Malnutrition Appeal 2010,CGTM10,2010-02-12,2010-08-11,2010,6,Food Security,13928555,5817471,41
+Guatemala,338,Guatemala Food Insecurity and Acute Malnutrition Appeal 2010,CGTM10,2010-02-12,2010-08-11,2010,7,Health,9971695,2044148,20
+Guatemala,338,Guatemala Food Insecurity and Acute Malnutrition Appeal 2010,CGTM10,2010-02-12,2010-08-11,2010,11,Water Sanitation Hygiene,2396800,376916,15
+Guatemala,188,Guatemala  2005,FGTM0506,2005-10-01,2006-03-31,2005,26512,Agriculture,3500000,1320000,37
+Guatemala,188,Guatemala  2005,FGTM0506,2005-10-01,2006-03-31,2005,26480,Coordination and support services,6740000,756558,11
+Guatemala,188,Guatemala  2005,FGTM0506,2005-10-01,2006-03-31,2005,2,Early Recovery,1200000,,
+Guatemala,188,Guatemala  2005,FGTM0506,2005-10-01,2006-03-31,2005,3,Education,600000,25000,4
+Guatemala,188,Guatemala  2005,FGTM0506,2005-10-01,2006-03-31,2005,6,Food Security,14100000,6379778,45
+Guatemala,188,Guatemala  2005,FGTM0506,2005-10-01,2006-03-31,2005,7,Health,1720000,1712596,99
+Guatemala,188,Guatemala  2005,FGTM0506,2005-10-01,2006-03-31,2005,,Not specified,,11704588,
+Guatemala,188,Guatemala  2005,FGTM0506,2005-10-01,2006-03-31,2005,11,Water Sanitation Hygiene,4000000,,
+Guatemala,479,Honduras 2015,,,,,6,Food Security,9000000,0,0
+Guatemala,479,Honduras 2015,,,,,7,Health,1100000,,
+Guatemala,479,Honduras 2015,,,,,undefined,Not specified,,0,
+Guatemala,479,Honduras 2015,,,,,9,Nutrition,1100000,,
+Guatemala,479,Honduras 2015,,,,,11,Water Sanitation Hygiene,2000000,,
